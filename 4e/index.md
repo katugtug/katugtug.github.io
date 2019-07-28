@@ -3,12 +3,12 @@ title: 4e
 ---
 
 ## Locations
-* [locations/copopa-forest](locations/copopa-forest)  
-* [locations/karain](locations/karain)  
-* [locations/hopes-end](locations/hopes-end)  
-* [locations/cracked-flagon](locations/cracked-flagon)  
-* [locations/vampire-lands](locations/vampire-lands)  
-* [locations/world-map](locations/world-map)  
+* [Hopes End](locations/hopes-end)  
+* [The Cracked Flagon](locations/cracked-flagon)  
+* [Coyopa Forest](locations/coyopa-forest)  
+* [Karain](locations/karain)  
+* [Vampire Lands Map Summary](locations/vampire-lands)  
+* [World Map](locations/world-map)  
 
 ## People and Plots
 * [NPC Registry](gm/npcs) 
