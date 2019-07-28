@@ -16,7 +16,8 @@ title: NPCs
 
 
 ## Bad guys
+
 | Name  | Occupation | Level  | Notes |
 |---|---|---|---|
-| **Doru**              | Vampire Thrall| 5 Sorcerer            | Commanded by the priest to come to Karain and get shipments of artifacts from the Green Gate moving north.
+| **Doru**              | Vampire Thrall| 5 Sorcerer            | Commanded by the priest to come to Karain and get shipments of artifacts from the Green Gate moving north. |
 | **Dowles**            | Cutthroat     | 4 Half Orc Rogue      | One of Thrains men, who commands the loyalty of the remaining half of Thrain's gang. |
