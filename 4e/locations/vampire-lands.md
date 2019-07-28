@@ -1,5 +1,5 @@
 ---
-title: Vampire Lands Map
+title: Vampire Lands Map Summary POI
 permalink: /4e/vampire-lands/
 ---
 ## Coyopa Forest

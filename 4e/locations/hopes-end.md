@@ -20,14 +20,7 @@ Why did the Blackwatch come here? The stories of the Emerald mountains and ziggu
 * Wagoneer and Cooper
   
 ## People
-
-# Forest Encounters
-Bandits - p162
-Goblin group - p137
-Skeleton group p 234
-Green Dragon
-
-
+See NPC page.
 
 # About the Lands to the North
 
@@ -46,28 +39,12 @@ Green Dragon
 * Savage orcs 
 * Cult of Zehir, the snake god. 
 
-# Coyopa Forest
-* Metaplot tie in: The necromancer flees from the vampires in the north. The PCs may take him as an ally if they can. He is a native of the northern Chiche` peoples.
-* Ruins dot these woods, these used to be dwarven hunting grounds when they ruled the emerald mountains.
-* Tales of a dragon in these woods, a great green beast.
-  * That dragon is now dead, killed by some adventurers, but the necromancer has reanimated it and its a strong ally, though a shade of its former self. Who killed it originally? It's horde has been removed, but a dangerous cave remains that the necromancer stays in currently with his living entourage.
-  * There is a young green dragon here, abandoned after it's mother died.
-* Goblins hunt around in this forest.
-* Savage orcs are also found here.
-* The necromancer and his people have fled to here. 
-* They compete with dryads and goblins for control of the forest. 
-* Dwarven ruins are open to all sorts of malevolent creatures to take up residence, but also stocked with dwarven-centric treasure.
-
-
-# History of the Emerald Mountains
-* DC 15: Dwarven hegemony ended here 500 years ago, when the last of the fortresses fell in the Emerald Mountains. It had been in decline for 300 years before that, slowly losing territory above and below. No one knows what dwarves survive in the Emerald Mountains today. 
-* DC 20: Dwarves of the Emerald Mountains were ostracized from other dwarven kingdoms for their views on magic and their relations with other races. While Emerald Dwarves regarded their cousins normally, they took as slaves and terrorized most other races if given the opportunity.
 
 #Karain
 The other town
 
 * Led by a group of bandits and highwaymen, used to be a gang called of a man named Thrain.
-* Now the band of a vampire thrall, a chiche human.
+* Now the band of a vampire thrall, a chiche human thrall named Duro.
 * Church blacked out, lots of slaves in town being shipped north. Many of these are goblins and some orcs and half orcs, people that live around here.
 * 
 

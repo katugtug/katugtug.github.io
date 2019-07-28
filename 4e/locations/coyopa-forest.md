@@ -51,3 +51,12 @@ permalink: /4e/coyopa/
    2. Undead skirmishers try to draw the party away. 
    3. Finding the Camp (simple challange, failure, you find the pit.)
    4. Meet the Necromancer (Skill Challenge, failure results in expulsion or a fight.)
+
+# The Pit
+* Very stinky former home to a green dragon.
+* Carvings, eladrin style, show a guarded orb
+* Vampire agents came in a murdered the dragon, stole the orb. 
+* Thousands of thralls and zombies died in the attack on the dragon, their brutalized corpses are what stinks.
+* In the fighting, the cave collapsed, scattering much of the dragons horde into a deep pit. 
+* Carrion crawlers and ottyghs guard the horde now.
+* Goblins led by a brutal hobgoblin live here now, trying to get used to the stink. They cant get to the treasure, but many have died trying.

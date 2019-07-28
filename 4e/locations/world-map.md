@@ -1,6 +1,6 @@
 ---
 title: Map objects, points of interest
-permalink: /4e/map/
+permalink: /4e/world-map/
 ---
 # Calendar
 
@@ -8,7 +8,8 @@ permalink: /4e/map/
 
 The year 380 was marked by the Red Night, a point where the Far Gate was sundered and the Far Realm aka the Astral Sea, began to bleed into our world. It was marked by a loud telepathic echo that all living creatures heard as a mighty rumble for several minutes. Afterwards, the night sky turned crimson for some time. 
 
->    "And as I lay down to rest that night, there came a sudden jolt to the senses, a maddening terrible roar in my mind. I've never felt anything like it since. In distress, I stumbled from my bed only to find my housemaid similarly distraught. As soon as it had come on, it was over in the space of a minute or two, leaving an echo in our minds and an terrible trepidation that the sensation might reoccur. All of this was put aside of course upon reaching the window of my bedchamber. For there, the night sky was changed.  It's normal black dispelled by a brilliant crimson. It bathed the city in the ominous hue for around an hour, dissipating completely before dawn. This was to come known as the Red Night. "
+>    "And as I lay down to rest that night, there came a sudden jolt to the senses, a maddening terrible roar in my mind. I've never felt anything like it since. In distress, I stumbled from my bed only to find my housemaid similarly distraught. As soon as it had come on, it was over in the space of a minute or two, leaving an echo in our minds and an terrible trepidation that the sensation might reoccur. All of this was put aside of course upon reaching the window of my bedchamber. For there, the night sky was changed.  It's normal black dispelled by a brilliant crimson. It bathed the city in the ominous hue for around an hour, dissipating completely before dawn."  
+> 
 >    -- Archibald Crane, ink maker.
 
 Since this time, psionic powers began to manifest.
