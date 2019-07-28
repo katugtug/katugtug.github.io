@@ -1,6 +1,6 @@
 ---
 title: NPCs
-permalink: /4e/npcs/
+
 ---
 
 # NPCs
@@ -19,7 +19,8 @@ Doru | Sorceror | Karain | Doru is a vampire thrall, sent here to
 | **Lereth**            | Outfitter     | 5 Human Warlord       | A former knight, now here for some reason. Charismatic, stiff upper lip. |
 | **Michel**            | Carpenter     | 1 Craftsman           | Old timer |
 | **Thia**              | Adventurer    | 3 Dragonborn Sorcerer | Red dragonborn, searching for Arms of Arkosian Kings |
-| **Elnore Wadsworth**  | Brigand       | 2 Rogue               | Fleeing from Karain, a refugee of the slaughter there. He is found out when the players discover he has a wicked knife. He tells the players that Karain is no longer ruled by Thrain, Thrain is dead and it is now ruled by Doru, a chiche human. |
+| **Elnore Wadsworth**  | Brigand       | 2 Rogue               | Fleeing from Karain, a refugee of the slaughter there. He is found out when the players discover he has a wicked knife. He tells the players that Karain is no longer ruled by Thrain, Thrain is dead and it is now ruled by Doru, a chiche human. |  
+| **Dowles**            | Cutthroat     | 4 Half Orc Rogue      | One of Thrains men, who commands the loyalty of the remaining half of Thrain's gang. |
 
 
 ## Bad guys

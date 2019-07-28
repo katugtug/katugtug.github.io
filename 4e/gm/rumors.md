@@ -16,9 +16,7 @@ permalink: /4e/rumors
 1.  ~~Coyopa has a big dwarf fort there, just ruins now, no dwarves. ~~
 2.  ~~Found something interesting the other day, hunting up in Coyopa forest. Big stinking hole in the ground. Saw some torchlight in there, but man did this place smell.~~
 3.  Saw a big dragon there, low over the canopy, we hid.
-4.  Smells awful in Coyopa, whole place smells like a cesspool, didnt used to be that way.
-
-## About: 
+4.  Smells awful in Coyopa, whole place smells like a cesspool, didn't used to be that way.
 
 ## About: Temple of Erathis
 1.  ~~Up the road, there's a bunch of ruins by the lake, only thing really left is the foundations of an old temple of the waywalker. Something in there, you can hear em from the road.. (its actually a temple to Erathis.)~~
