@@ -1,16 +1,9 @@
 ---
 title: NPCs
-
 ---
 
-# NPCs
-
-Npc name | Class\Type | Where met | Desc
---- 
-Elnore Wadsworth | Rogue 2 | On the road between Karain and Hope's End. | 
-
-Doru | Sorceror | Karain | Doru is a vampire thrall, sent here to 
 ## People
+
 | Name  | Occupation | Level  | Notes |
 |---|---|---|---|
 | **Pippal**            | Innkeeper     | 4 Halfling Rogue      | Pippal knows lots of things about everything. | 
@@ -20,8 +13,10 @@ Doru | Sorceror | Karain | Doru is a vampire thrall, sent here to
 | **Michel**            | Carpenter     | 1 Craftsman           | Old timer |
 | **Thia**              | Adventurer    | 3 Dragonborn Sorcerer | Red dragonborn, searching for Arms of Arkosian Kings |
 | **Elnore Wadsworth**  | Brigand       | 2 Rogue               | Fleeing from Karain, a refugee of the slaughter there. He is found out when the players discover he has a wicked knife. He tells the players that Karain is no longer ruled by Thrain, Thrain is dead and it is now ruled by Doru, a chiche human. |  
-| **Dowles**            | Cutthroat     | 4 Half Orc Rogue      | One of Thrains men, who commands the loyalty of the remaining half of Thrain's gang. |
 
 
 ## Bad guys
+| Name  | Occupation | Level  | Notes |
+|---|---|---|---|
 | **Doru**              | Vampire Thrall| 5 Sorcerer            | Commanded by the priest to come to Karain and get shipments of artifacts from the Green Gate moving north.
+| **Dowles**            | Cutthroat     | 4 Half Orc Rogue      | One of Thrains men, who commands the loyalty of the remaining half of Thrain's gang. |
