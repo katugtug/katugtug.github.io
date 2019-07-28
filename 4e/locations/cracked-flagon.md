@@ -1,6 +1,6 @@
 ---
-title: The Menu at the Cracked Flagon
-permalink: /4e/cracked-flagon/
+title: Cracked Flagon
+
 ---
 
 # The Menu 

@@ -1,6 +1,5 @@
 ---
-title: Making Circle Monsters
-permalink: /4e/circle/
+title: Circle Orboros
 ---
 
 # Circle Orboros beasts to 4e Conversion

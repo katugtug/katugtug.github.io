@@ -1,6 +1,5 @@
 ---
-title: Carousing Mishaps
-permalink: /4e/carousing/
+title: Carousing
 ---
 
 ##Carousing Mishaps

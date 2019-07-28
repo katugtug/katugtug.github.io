@@ -26,8 +26,6 @@ permalink: /4e/rumors
 ## About: Leetok Forest
 1. It's dark in there, witches live there. Seen them nude in the moonlight when I was in Karain, Borol went in strong as a boar, never saw him again.
 
-
-
 # History of the Emerald Mountains
 * DC 15: Dwarven hegemony ended here 500 years ago, when the last of the fortresses fell in the Emerald Mountains. It had been in decline for 300 years before that, slowly losing territory above and below. No one knows what dwarves survive in the Emerald Mountains today. 
 * DC 20: Dwarves of the Emerald Mountains were ostracized from other dwarven kingdoms for their views on magic and their relations with other races. While Emerald Dwarves regarded their cousins normally, they took as slaves and terrorized most other races if given the opportunity.

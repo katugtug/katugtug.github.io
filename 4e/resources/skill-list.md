@@ -1,6 +1,5 @@
 ---
 title: Skills
-permalink: /4e/skills/
 ---
 
 * Acrobatics  

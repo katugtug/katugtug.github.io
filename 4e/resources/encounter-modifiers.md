@@ -1,6 +1,6 @@
 ---
-title: Interesting Encounter Modifiers
-permalink: /4e/encounter-modifiers/
+title: Encounter Modifiers
+
 ---
 
 # Assumptions

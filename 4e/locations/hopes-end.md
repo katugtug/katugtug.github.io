@@ -1,6 +1,5 @@
 ---
-title: Hope's End
-permalink: /4e/gm-notes
+title: Hopes End
 ---
 
 # Hope's End

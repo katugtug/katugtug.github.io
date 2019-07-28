@@ -1,6 +1,5 @@
 ---
-title: Map objects, points of interest
-permalink: /4e/world-map/
+title: World Map
 ---
 # Calendar
 

@@ -1,6 +1,5 @@
 ---
-title: Vampire Lands Map Summary POI
-permalink: /4e/vampire-lands/
+title: Vampire Lands Map
 ---
 ## Coyopa Forest
 - Dead Dragon's Lair

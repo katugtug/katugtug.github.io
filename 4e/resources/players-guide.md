@@ -1,6 +1,5 @@
 ---
-title: Player's Guide
-permalink: /4e/players-guide/
+title: Players Guide
 --- 
 
 # Races

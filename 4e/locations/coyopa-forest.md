@@ -1,6 +1,5 @@
 ---
 title: Coyopa Forest
-permalink: /4e/coyopa/
 ---
 
 # Coyopa Forest
