@@ -2,6 +2,7 @@
 title: 4e
 ---
 
-Hello world
+## Locations
+[locations/karain](locations/karain)
 
-[locations/karain]([locations/karain])
+## Resources
