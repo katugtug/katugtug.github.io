@@ -45,3 +45,30 @@ The temple and its associated underground dwarven halls has been turned into a d
 * Trap chambers where poison gas fills the room while you fight zombies.
 * Long hall where loyal archers can fire.
 * Sleeping chamber, where Duro rests, surrounded by the dead who guard him. He doesnt trust the living too much.
+
+## Capturing The Two
+Perimy and Batu are captured. Perimy is the tall human with great beard and greatsword. Batu is a thickly muscled brute with a bald head who wears a cloak.
+
+Batu is bloodied, Perimy is in pretty much perfect health, but got caught up in the vines.
+
+# Perimy Backstory
+* Man at arms 10 years ago in Baran, the trading capital on the sea.
+* Ended up a mercenary after his lord lost all of his lands.
+* A few of the mercenaries ended up in Karain looking for frontier work after the company collapsed.
+* Joined Thrain and his men 4 years ago.
+* Likes the weather here.
+* No love for Duro, but those loyal to Thrain are already dead. 
+* Things he knows that could help:
+  * Duro sleeps in the old temple during the day. No one allowed in.
+  * Most of the men are with Dowles in Green Gate.
+  * He overheard Duro talking to someone, something about a moradin shield?
+
+# Batu Backstory
+* Born to the horselords, Batu has a streak of infernal blood in his heavy brow.
+* His tribe was absorbed into another one and he was exiled due to being a threat to the new leader.
+* He wandered around, killing for food and money, until he drifted in with Thrain's men. That was 2 years ago.
+* Thrain is dead, but he never liked Thrain. He does what is best for him. Doesn't really like Duro either. Or Dowles. Or Perimy for that matter.
+* Things he knows that could help:
+  * Duro has something that is precious to Dowles. He saw Dowles ask for it and was rejected.
+  * The Temple is dangerous, filled with traps.
+

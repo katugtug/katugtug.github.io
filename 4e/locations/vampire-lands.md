@@ -17,8 +17,7 @@ title: Vampire Lands Map
 ### The Dwarven Capital of Grund Vora
 - Lost to the curse; under beasts rule here.
 ### Dwarven Exiles
-- Hunted now by things released.
-- Dwarven kruthik hordes are weapons against beasts and dead.
+- Must not allow Green Gate to be breached.
 ### Cave of the Giants
 - High level area filled with ancient giant treasure, guarded by the elements. No way to approach until later.
 
