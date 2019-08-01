@@ -2,6 +2,8 @@
 title: 1 Surprise Attack
 ---
 
+# Convergence of Cyriss vs Protectorate of Menoth: Scenario 1: Surprise Attack on The Temple of the Broken Fist
+
 Northern Bloodstone Marches.
 
 In the dead of night, the Convergence of Cyriss arrives from seemingly nowhere. Living machines of the 9 Harmonics, reason given form. They stride towards the Temple of Broken Fist, seeking the ancient relics buried deep below. What are they after?
@@ -25,6 +27,8 @@ Deployment zone is: 7", attacker takes first turn.
 
 Convergence player may place any of his forces in reserve. Convergence player may, at start of their turn, put down a unit from reserve within command of their caster (!!!). This is powerful.
 
+Protectorate player must start with his warcaster and all jacks on the back table edge.
+
 ## Goals:
 * Convergence player must take the relic, by getting within base to base and using his action.    
 * Convergence player must get out of temple zone with the relic by turn 6.  
@@ -34,3 +38,4 @@ Convergence player may place any of his forces in reserve. Convergence player ma
 * Convergence good ending: Relic stolen, caster alive.  
 * Neutral ending: Relic is secure, but Menoth caster is killed.  
 * Protectorate good ending: Relic secure, convergence caster killed.  
+
