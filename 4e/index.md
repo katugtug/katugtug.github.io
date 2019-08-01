@@ -2,6 +2,9 @@
 title: 4e
 ---
 
+# If you're playing in my game, don't read this stuff :D
+## SPOILERS BRO
+
 ## Locations
 * [Hopes End](locations/hopes-end)  
 * [The Cracked Flagon](locations/cracked-flagon)  
