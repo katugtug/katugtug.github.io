@@ -18,6 +18,7 @@ title: 4e
 ## People and Plots
 * [NPC Registry](gm/npcs) 
 * [Rumors](gm/rumors)
+* [Session 4](gm/session-4)
 
 ## Resources
 * [Encounter Modifiers](resources/encounter-modifiers)

@@ -26,10 +26,6 @@ title: NPCs
 Perimy - Mercenary warrior, not as evil as Batu. Captured outside Karain.
 Batu - Steppe warrior, evil. Captured outside Karain.
 
-
-
-
-
 ## Unused Names
 
 Euchil

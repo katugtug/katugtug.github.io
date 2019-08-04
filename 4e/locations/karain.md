@@ -19,7 +19,6 @@ The buildings of the town have fallen into disrepair as most of the inhabitants 
 * The Salty Grog, There's an tavern here still, its basically empty but can serve up rumors.
   * Rumors Duro, tell you about Thrain and Dowles, the plan, the beasts.
 
-
 ### Bridgeside
 * Slaves marched out onto road. 
 * Big wagons here and lots of draft animals, setting out over the bridge.
@@ -32,9 +31,9 @@ Duro sleeps in the temple of Moradin by day, guarded by his most elite and trust
 The undead that Duro can create are not smart. They have very little animus but can be made to stand in one place and attack things that near them.
 
 ### Duros Dilemnia
-**Duro** has been sent here by **the Priest** to get the written words of the Dwarves, speciallically those bearing the **mark of mammon**, to the north. He has killed **Thrain** and then was forced to kill or imprision another quarter of them while another quarter fled. So he now has a disgruntled gang of 'loyal' cutthroats, but they actually follow one of **Thrain's** Lieutenants, **Dowles**. **Dowles** and his men are in the Green Gate, sifting through wreckage for sign of the **Mark of Mammon**, which has been described to them. They aren't finding much about **Mammon**, but are discovering a great amount of dead dwarves and their treasure. This makes **Dowles** happy and his men happy. Get get to keep half of it. Its a fine line though, they have narrowly avoided disaster by beastmen, undead and other things in the dwarven halls.
+**Duro** has been sent here by **the Priest** to get the written words of the Dwarves, speciallically those bearing the **mark of mammon**, to the north. He has killed **Thrain** and then was forced to kill or imprision another quarter of them while another quarter fled. So he now has a disgruntled gang of 'loyal' cutthroats, but they actually follow one of **Thrain's** Lieutenants, **Dowles**. **Dowles** and his men are in the Green Gate, sifting through wreckage for sign of the **Mark of Mammon**, which has been described to them. They aren't finding much about **Mammon**, but are discovering a great amount of dead dwarves and their treasure. This makes **Dowles** happy and his men happy. Get get to keep half of it. Its a fine line though, they have narrowly avoided disaster by beastmen, undead and other things in the Green Gate.
 
-While all of his loyal followers are mining the dwarven halls for goodies, his shipments are getting wrecked by beastmen from the Witztun hills, who seem content to trash the carts, take the animals, murder the crew, search it for weapons and scatter the rest. Duro has lost 3 of his 4 shipments to these beasts. He seeks to get some of that treasure back.
+While all of his loyal followers are mining the dwarven ruins for goodies, his shipments are getting wrecked by beastmen from the Witztun hills, who seem content to trash the carts, take the animals, murder the crew, search it for weapons and scatter the rest. Duro has lost 3 of his 4 shipments to these beasts. He seeks to get some of that treasure back.
 
 To top it off, he has failed to find any significant Mammon-marked writings. The priest will not be happy with him if he does not succeed.
 

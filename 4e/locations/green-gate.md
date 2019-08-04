@@ -59,4 +59,3 @@ title: Green Gate
 * She is especially distrustful of the tiefling, whose devil blood seems similar to mammon's monsters.
 * She must stop the **Moradin's Shield** from being breached, for she knows what lies on the other side, beasts and ghosts in equal measure.
 * She is spying on **Dowles**.
-

@@ -6,14 +6,14 @@ title: 1 Surprise Attack
 
 Northern Bloodstone Marches.
 
-In the dead of night, the Convergence of Cyriss arrives from seemingly nowhere. Living machines of the 9 Harmonics, reason given form. They stride towards the Temple of Broken Fist, seeking the ancient relics buried deep below. What are they after?
+In the dead of night, the Convergence of Cyriss arrives from seemingly nowhere. Living machines of the 9 Harmonics, reason given form. They stride towards the Temple of Broken Fist, seeking the ancient relic buried deep below. What are they after?
 
-Roused by the attack itself, the Flameguard take up their spears. 
+Roused by the attack itself, the Flameguard take up their spears. Menoth gave them fire and they aim to defend their temple with flame and fury.
+
 
 ## Scenario
 
-2 rectangular zones together to make 1 big 12" x 12" rectangle. This is the holy site.  
-In the center of this, place a relic marker.
+1 12" round zone. This is the holy site, 18" from defender deployment. In the center of this, place a relic marker.
 
 Put this 18" from defender deployment zone.  
 
