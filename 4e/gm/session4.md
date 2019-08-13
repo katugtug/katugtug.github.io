@@ -46,5 +46,29 @@ title: Session 4
 * Things aren't going great at Green Gate.
 * Duro has a seer he brought with him from the north, but he never speaks.
 * They look for the wolf mark. Duro pays handsomely for any wolf marked things.
-* 
+* There are dwarves in the hills still.
+* Beasts are attacking wagons leaving the green gate, destroying them.
+
+# Fantastic Locations
+- The Temple of Moradin
+  - Windows draped in black cloth
+  - Great statues of dwarven heroes outside have been broken apart and defaced.
+  - A great chimney dominates the center of the towering stone structure
+
+- The Valley to the Gate
+  - Huge walls of brown rock climb hundreds of feet in the air as the switchback ramp ascends.
+  - Ancient wagon tracks are worn into the stone.
+  - the ruins of a stone guardian lie shattered by keen blades.
+
+
+
+# Session 4 Afteraction
+
+Party convinces Batu and Perimy to spill some beans. Batu will come with them, but Perimy ends up escaping in the night. He's in the wind, maybe he goes to meet up with Dowles. They walk straight to the temple and try to climb the chimney but are caught. They fight a number of guards and some dogs. 
+
+They descend the chimney and find their way into a big dwarven room filled with zombies. They kill them all
+
+They fight their way across a narrow bridge with a few ranged defenders and traps.
+
+They find their way past a thick wooden door into the chamber of Doru. Skeleton warriors defend Doru; warriors from his tribe he has brought with him.
 

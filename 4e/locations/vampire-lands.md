@@ -13,7 +13,7 @@ title: Vampire Lands Map
 ## Emerald Mountains
 ### Green Gate
 - Vampires loot ancient dwarven treasure
-- Beasts from Below released.
+- Beasts from Below still mostly held inside.
 ### The Dwarven Capital of Grund Vora
 - Lost to the curse; under beasts rule here.
 ### Dwarven Exiles
