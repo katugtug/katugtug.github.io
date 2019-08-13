@@ -10,7 +10,7 @@ Living machines emerge in a surprise attack against remote holy sites. What do t
 
 * [Scenario 1](convergence-menoth/1-surprise-attack)
 
-## The Protectorate goes North Campaign
+## The Creator's Lost
 
 *Legion Vs Protectorate*
 
