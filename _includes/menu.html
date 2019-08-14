@@ -1,7 +1,7 @@
 {% if include.linebreaks == true %}
     {% assign menuclass = "smallmenu-with-linebreaks"%}
 {% else %}
-{% assign menuclass = "smallmenu"%}
+    {% assign menuclass = "smallmenu"%}
 {% endif %}
 
 {% if include.menutype != nil and include.menuof != nil %}
@@ -10,7 +10,8 @@
 {% assign pages = site.pages | sort: 'order'%}
 {%- for item in pages -%}
     {% if item[include.menutype] == include.menuof %}
-<li><a href="{{item.url}}">
+<li {% if page.url == item.url %} class="active" {%endif%}>
+    <a href="{{item.url}}">
     {% if item.order %}{{item.order}} - {%endif%}
     {{item.title}}</a></li>
     {% endif %}
@@ -23,7 +24,7 @@
 {% assign pages = site.pages | sort: 'order'%}
 {%- for item in pages -%}
     {% if item[include.menutype] == page[include.menutype] %}
-<li><a href="{{item.url}}">
+<li {% if page.url == item.url %} class="active" {%endif%} ><a href="{{item.url}}">
     {% if item.order %}{{item.order}} - {%endif%}
     {{item.title}}</a></li>
     {% endif %}
@@ -39,5 +40,8 @@
 .smallmenu {
     margin:0;
     padding:0;
+}
+.active a {
+    font-weight:bold !important;
 }
 </style>
