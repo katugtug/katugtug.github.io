@@ -29,3 +29,6 @@ Mortenebra and her black metal horrors claim the temple as their own, scattering
 Locke is injured by a whirling blade of a Cryx helljack, her arcantrik power field deflecting the blade just enough to not decapitate her. A follow up blow sends her unconscious. Her vectors, losing their connection with Locke, power down. She is carried to safety by a number of loyal servitors, leaving her vectors for cryx salvagers.
 
 Malekus' flameguard are whittled down by weapons fire from all sides, his jacks reduced to wrecks in melee. Focusing his magic power into his fiery blades, he battles valiantly against Cyriss and Cryx warjacks alike. In the end, he's run out of time, his battle group lies in ruins, Pyrrhus lies dead, and the he must retreat back to his ships.
+
+{% include menu.html menutype="campaign" %}
+
