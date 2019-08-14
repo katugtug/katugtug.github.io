@@ -1,0 +1,43 @@
+{% if include.linebreaks == true %}
+    {% assign menuclass = "smallmenu-with-linebreaks"%}
+{% else %}
+{% assign menuclass = "smallmenu"%}
+{% endif %}
+
+{% if include.menutype != nil and include.menuof != nil %}
+<!-- menu of matches menutype to a specific value provided-->
+<ul class='{{menuclass}}'>
+{% assign pages = site.pages | sort: 'order'%}
+{%- for item in pages -%}
+    {% if item[include.menutype] == include.menuof %}
+<li><a href="{{item.url}}">
+    {% if item.order %}{{item.order}} - {%endif%}
+    {{item.title}}</a></li>
+    {% endif %}
+{%- endfor -%}
+</ul>
+{% elsif include.menutype != nil %}
+<!-- dynamic menu based off whatever variable is included, using the current pages values-->
+
+<ul class='{{menuclass}}'>
+{% assign pages = site.pages | sort: 'order'%}
+{%- for item in pages -%}
+    {% if item[include.menutype] == page[include.menutype] %}
+<li><a href="{{item.url}}">
+    {% if item.order %}{{item.order}} - {%endif%}
+    {{item.title}}</a></li>
+    {% endif %}
+{%- endfor -%}
+</ul>
+{% endif%}
+
+<style>
+.smallmenu li{
+        display:inline-block;
+        padding: 5px 10px;
+}
+.smallmenu {
+    margin:0;
+    padding:0;
+}
+</style>

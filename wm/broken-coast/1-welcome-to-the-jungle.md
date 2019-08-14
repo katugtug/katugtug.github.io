@@ -1,6 +1,12 @@
 ---
-title: 1 - Welcome to the Jungle
+title: Welcome to the Jungle
+category: Warmachine and Hordes
+subcategory: Campaigns
+campaign: The Broken Coast
+order: 1
 ---
+
+{% include menu.html %}
 
 # The Island Campaign
 

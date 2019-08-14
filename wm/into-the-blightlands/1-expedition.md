@@ -1,8 +1,14 @@
 --- 
 title: Expedition To the Mountains
+category: Warmachine and Hordes
+subcategory: Campaigns
+campaign: Into the Blightlands
+order: 1
 ---
 
-# The Creator's Lost
+{% include menu.html menutype="campaign" %}
+
+# Into the Blightlands
 
 ## Expedition To the Mountains
 

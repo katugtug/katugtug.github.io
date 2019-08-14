@@ -1,15 +1,23 @@
 ---
-title: 1 Surprise Attack
+title: Surprise Attack
+category: Warmachine and Hordes
+subcategory: Campaigns
+campaign: Quest for Fire
+order: 1
 ---
 
-# Convergence of Cyriss vs Protectorate of Menoth: Scenario 1: Surprise Attack on The Temple of the Broken Fist
+{% include menu.html menutype="campaign" %}
+
+# Quest for Fire
+*Convergence of Cyriss vs Protectorate of Menoth* 
+
+## Scenario 1: Surprise Attack on The Temple of the Broken Fist
 
 Northern Bloodstone Marches.
 
 In the dead of night, the Convergence of Cyriss arrives from seemingly nowhere. Living machines of the 9 Harmonics, reason given form. They stride towards the Temple of Broken Fist, seeking the ancient relic buried deep below. What are they after?
 
 Roused by the attack itself, the Flameguard take up their spears. Menoth gave them fire and they aim to defend their temple with flame and fury.
-
 
 ## Scenario
 
