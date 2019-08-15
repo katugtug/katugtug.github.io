@@ -47,3 +47,5 @@ Protectorate player must start with his warcaster and all jacks on the back tabl
 * Neutral ending: Relic is secure, but Menoth caster is killed.  
 * Protectorate good ending: Relic secure, convergence caster killed.  
 
+
+{% include menu.html menutype="campaign" %}

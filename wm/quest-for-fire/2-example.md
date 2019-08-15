@@ -9,3 +9,5 @@ order: 2
 
 Hi there!
 
+
+{% include menu.html menutype="campaign" %}

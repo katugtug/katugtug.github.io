@@ -19,3 +19,6 @@ The Nyss spot his expedition long before he reaches the mountains. Caught out in
 ## Scenario 
 
 TBD
+
+
+{% include menu.html menutype="campaign" %}
