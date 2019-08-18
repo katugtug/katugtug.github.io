@@ -4,26 +4,25 @@ title: Session 5
 
 # Characters
 Lucan, eladrin avenger
-- His knowledge of religion tells him of the Queen of Ice and Darkness is Zeth's patron. He hadnt seen it till now.
-
+- Possible: His knowledge of religion tells him of the Queen of Ice and Darkness is Zeth's patron. He hadnt seen it till now.
 Zeth, tiefling warlock
 - 
 
-# Doru Throne Fight
+# Encounter Setup
 
-Skeleton Shaman - Barkskin Armor
-
-Skeleton Wizard - Darkleaf armor
-
-Skeleton Archer - Thunderbow
-
-Loot - Moradin symbol
+## Description
 
 
-Skeleton Wizard can summon armor of bones slide people away from him.
-
+## GM Notes
+* Size of the board
+* Magic circle around a sarcophagus, runes in salt on the floor.
+* As the sacrophagus opens, beetle swarms come out. There are 1d3 swarms in there. 
+* This was a dwarven place of worship, to the back is a big forge, long cold, that was used in ceremony, not for work. The tools are ritualized.
+* In the lower area, the skeleton guards stand. These warriors are of the Chiche. These were followers of Doru in life and he's brought them with him in dead. 
+* 
 
 # Wave 1
+
 Wizard - controller (Based on Goblin Hexer) 150xp
     - Blinding Hex
     - Stinging Hex
@@ -34,6 +33,7 @@ The wizard stands in a magic circle
 
 Specter - Lurker 175
     - sneaks in behind and spectal barrages than disappears until it recharges
+
 Warriors - soldiers 150xp 2x or 3x.
 
 # Wave 2
@@ -49,7 +49,7 @@ The sacrophagus lid falls off. A thickly muscle, dark skinned man, his body cove
 
 If the magic circle stands, he protected from all but the Eladrin. 
 
-He will talk, maybe even come to a deal. He has a lot of problems that need solving. He is chiche, there are lots of this sort of people. But he doesn't speak like Batu, chiche are intelligent intellectual caste, they have risen to p
+He will talk, maybe even come to a deal. He has a lot of problems that need solving. He is chiche, there are lots of this sort of people. But he doesn't speak like Batu, he speaks as a nobleman, though an angry and tempermental one.
 
 Otherwise he will fight. He is a wight with vampire tendencies.
 
