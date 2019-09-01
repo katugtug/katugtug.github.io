@@ -4,20 +4,18 @@ title: Session 6
 
 # level up
 
-#Characters
+# Characters
 
-Lucan, eladrin
-- A piece of Roldan's clothing or a weapon.
-Zeth, warlock
-- Mor
+- Lucan, eladrin
+  - A piece of Roldan's clothing or a weapon.
+- Zeth, warlock
+  - Eat more vampires?
 Ix Chel, warden
-- Fighting vampires?
+  - Fighting vampires?
 Juras, bard
-- The trial of the bard.
-Ramsas, seeker
-- ?
+  - The trial of the bard.
 
-#Strong Start
+# Strong Start
 The collapsing temple of Moradin.
 
 Deep below the Temple of Moradin, you stand in the former priest's quarters, looking and storing away the items found here.
@@ -74,7 +72,7 @@ Nature to smell a way out.
   - Lots of people agree. This is a social challenge.
   - She'll step down if public turns against her.
   
-#Potential Scenes 
+# Potential Scenes 
 ## TO THE GATE
 - The players make their way up the road to green gate and encounter beastmen on the road. 
 - The players enter into the Outer Emerald City, seeing this massive structure, now covered in vines and grass.
@@ -107,3 +105,4 @@ Review stuff with players. Get map back out. What do?
 - Coyopa Forest - the mysterious guy.
   
 - Green Gate
+- Go west young man.
