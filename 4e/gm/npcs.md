@@ -13,6 +13,7 @@ title: NPCs
 | **Michel**            | Carpenter     | 1 Craftsman           | Old timer |
 | **Thia**              | Adventurer    | 3 Dragonborn Sorcerer | Red dragonborn, searching for Arms of Arkosian Kings |
 | **Elnore Wadsworth**  | Brigand       | 2 Rogue               | Fleeing from Karain, a refugee of the slaughter there. He is found out when the players discover he has a wicked knife. He tells the players that Karain is no longer ruled by Thrain, Thrain is dead and it is now ruled by Doru, a chiche human. |  
+| **Euchil** | Monk Vigiante | 5 Monk | Unmet.
 
 
 ## Bad guys
@@ -28,7 +29,6 @@ Batu - Steppe warrior, evil. Captured outside Karain.
 
 ## Unused Names
 
-Euchil
 Marober
 Alarldil
 Edicen

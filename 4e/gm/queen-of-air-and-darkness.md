@@ -1,8 +1,8 @@
 ---
-title: Queen of Ice and Darkness
+title: Queen of AIR and Darkness
 ---
 
-# Queen of Ice and Darkness
+# Queen of AIR and Darkness
 
 *The Queen is cold and utterly emotionless.*
 

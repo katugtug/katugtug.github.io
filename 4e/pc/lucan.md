@@ -16,4 +16,4 @@ Comfortable around other races, Lucan continues to be assigned tasks that put hi
 ## Notes
 * Father PTSD
 * Sister Shael gets into trouble.
-* 
+* Evidence of Roldan passing into these jungles.
