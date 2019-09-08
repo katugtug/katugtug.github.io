@@ -5,6 +5,16 @@ title: 4e
 # If you're playing in my game, don't read this stuff :D
 ## SPOILERS BRO
 
+## People and Plots
+* [NPC Registry](gm/npcs) 
+* [Rumors](gm/rumors)
+* [Session 4](gm/session-4)
+* [Session 5](gm/session-5)
+* [Session 6](gm/session-6)
+* [Session 7](gm/session-7)
+
+
+
 ## Locations
 * [Hopes End](locations/hopes-end)  
 * [The Cracked Flagon](locations/cracked-flagon)  
@@ -15,10 +25,7 @@ title: 4e
 * [World Map](locations/world-map) 
 
 
-## People and Plots
-* [NPC Registry](gm/npcs) 
-* [Rumors](gm/rumors)
-* [Session 4](gm/session-4)
+
 
 ## Resources
 * [Encounter Modifiers](resources/encounter-modifiers)

@@ -37,5 +37,5 @@ title: Session 7
     - The followers have taken the Leterach Key, the orb of summer. He may tell them to go see the pit to see why this much be prevented.
   - Necromancer powers if they fight him: 
     - Spirits can come out of him and fight for him, spectres and worse, similar to spiritual weapon. They will fight for him. He can root people with entanging vines.
-    - 
+
 

@@ -80,13 +80,6 @@ Nature to smell a way out.
 - The players encounter a dwarven scout, Euchil, she tries to escape.
 
 ## TO THE WEST
-- This area is staked out by a isolationalist group of minotaurs who crash landed here centuries ago. Driven in land over time by the drake folk of the coasts and unable to make way in the thousands of miles of marsh, they make their home here at the foot of the mountains. They are savage warriors with a matriachal society who worship an snake idol. They practice a form of sacrifice where they feed outsiders to a giant snake pit in the center of their temple area. They have killed the orcs in the area.
-- There is a priest character, Omani, a female minotaur.
-- There is a warrior guard, Uxo, a great fighter and loyal to Omani.
-- There is a scholar who remembers where they came from, he has a book from the original captain of the original voyage.
-- The minotaurs will force the players into the southern forests.
-- Most forms of flattery and diplomacy will end in them being tricked and fed to the snake. ( no weapons in the temple area, etc)
-
 
 ## FANTASTIC LOCATIONS
 
