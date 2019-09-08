@@ -22,7 +22,7 @@ permalink: /4e/rumors
 1.  ~~Up the road, there's a bunch of ruins by the lake, only thing really left is the foundations of an old temple of the waywalker. Something in there, you can hear em from the road.. (its actually a temple to Erathis.)~~
 
 ## About: Leetok Forest
-1. It's dark in there, witches live there. Seen them nude in the moonlight when I was in Karain, Borol went in strong as a boar, never saw him again.
+1. It's dark in there, witches live there. Seen them nude in the moonlight when I was in Karain, Borol went in strong as a boar, never saw him again. (Zehir clan)
 
 # History of the Emerald Mountains
 * DC 15: Dwarven hegemony ended here 500 years ago, when the last of the fortresses fell in the Emerald Mountains. It had been in decline for 300 years before that, slowly losing territory above and below. No one knows what dwarves survive in the Emerald Mountains today. 

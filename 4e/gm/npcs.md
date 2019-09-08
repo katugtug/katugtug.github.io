@@ -33,7 +33,6 @@ Marober
 Alarldil
 Edicen
 Jargh
-Ludwend
 Brurond
 Marosin
 Thaban

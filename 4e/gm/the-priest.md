@@ -27,12 +27,11 @@ The sun in the sky still grants her divine magic. Maybe it's not Pelor?
 
 * She is building an army of undead. 
   * The city of Vex Utu is plagued by thousands of unintelligent undead roaming around. 
-* She is constructing a great temple, a massive ziggurat, the largest ever seen, to honor her god.
-* 
+  * She is constructing a great temple, a massive ziggurat, the largest ever seen, to honor her god. Zombies as salves.
+  * Her goal is to walk in the sun once more, by appealing to Pelor, honoring him with blood and death to prove her worth (He is the Sun, not Pelor, a mighty god of both life and outright destruction.)
 
 # Vampires
 * Vampires can make vampire thralls. They have similar powers and weaknesses to vampires, but are blood bound to their master.. 
   * Vampires must willingly free them from her control, in which case they may grow powerful enough to make thralls of their own. 
 * Vampires can make wights, who serve as their day to day soldiers and can crutially go out in sunlight. Whatever they were in life, little remains, they become hate filled officers of the undead, cruelly executing their master's will.
 * Vampire thralls can create undead. Tons of zombies, a handful of smarter skeletons.
-* 
