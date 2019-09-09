@@ -39,3 +39,19 @@ title: Session 7
     - Spirits can come out of him and fight for him, spectres and worse, similar to spiritual weapon. They will fight for him. He can root people with entanging vines.
 
 
+## Recap
+Retelling for next week when we all forget where we were:
+
+- The party buys supplies at Hope's End.
+- The party meets with Iviss Blimth, elder gnome warrior, who waits in Hopes End for a companion to show up. In the mean time, she works as an enchanter for those who need her craft.
+- There's a great storm, hundreds of lightning strikes in the Coyopa forest.
+- The party talks to a man with a terrible snake bite, a hunter named Maribel. Maribel has his poison cured by Ramsas, with help from Davos. He tells a tale of a non-venomous snake biting him and poisoning him near Arrow Lake. That's weird... XP++.
+- Davos talks to some of the escaped slaves; they were attacked by giant robed men on the way to Hope's End. They captured them and hauled them off. 
+- The party sets off towards Coyopa, fights some forest goblins. (XP++)
+- The party meets Oronos, Keeper of the Chiche. He is looking for hosts for the spirits of chiche warriors slain by the vampires, so that he might get his people vengeance. (the party learns new info without murdering anyone XP++)
+    - One of the warriors is Talukek, 7th of his name. 
+- He gives them a ritual to contact him if needed.
+- He tells the Eladrin to go see the site where the Orb of Summer was kept, that he says has been defiled by the Priest, the guardian slain, the orb stolen.
+- Ix Chel finds a scale.
+- Lucan knows of Viridius the Guardian of the Letarch's Key, aka the Orb of Summer. Known in the Feywild legend as a green dragon from ages ago. 
+- The party makes their way to the site and finds it broken open, but now inhabited by a number of unruly goblins. It smells awful. They prepare to fight.
