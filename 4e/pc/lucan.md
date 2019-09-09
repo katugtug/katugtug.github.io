@@ -13,6 +13,10 @@ Which is when an envoy from the Eladrin to the half-elf city found him, rescued 
 
 Comfortable around other races, Lucan continues to be assigned tasks that put him in the service of non-Eladrin, perhaps as a test of faith, to see if he will roam too far from home ever again.
 
+## Vamp story
+Near every race has their own version of the story; the origin of vampires. For the Eladrin, it traces back to Vladros the Betrayer, though before that he was know as the Warden of winter.  When their homeland would be recalled to the Feywild, he was the protector chosen to watch over the site so that when it returned, it would be safe.  Only when the homeland returned after one long winter season of which Vladros was to stand watch, the Eladrin returned to find the site void of life.  Bloodless bodies littered the ground, with Vladros nowhere to be found.  It was later learned that he had attempted to court death, to trick the god of death with his wiles, but she was to have known of it and so when Vladros was found out, he was cursed.  No longer living nor allowed to die, he had become something else.  Upon attempting to return to his people he encountered the great hunger, and feasted, but then retreated in shame before the prime Eladrin return.  Thus, he remains out there, a figure of great shame and pity; a reminder of the dangers of vanity.
+
+
 ## Notes
 * Father PTSD
 * Sister Shael gets into trouble.
