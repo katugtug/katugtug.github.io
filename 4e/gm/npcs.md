@@ -29,8 +29,6 @@ Batu - Steppe warrior, evil. Captured outside Karain.
 
 ## Unused Names
 
-Marober
-Alarldil
 Edicen
 Jargh
 Brurond
