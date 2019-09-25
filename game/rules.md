@@ -85,8 +85,8 @@ Mistform models cannot be harmed by attacks, except those of the Fire, Arcane or
 ## Die Types
 Attack Dice  
 Defense Dice  
-Movement Dice  
-Wild Dice  
+Movement Dice   
+Wild Dice   
 
 ## Defenses  
 Melee Defense  
@@ -110,22 +110,22 @@ Resistant to Cold Damage (any successful attack of this type causes -1 wound  (t
 Size: 6  
 Wounds: 3  
 
-### DICE
-3 Attack Dice
-0 Defense Dice
-1 Wild Die
-2 Movement Dice
+### DICE  
+3 Attack Dice  
+0 Defense Dice  
+1 Wild Die  
+2 Movement Dice  
 
 ### Defenses
-Melee:      6+  
-Ranged:     7+  
-Magic:      7+  
+Melee:      6+   
+Ranged:     7+   
+Magic:      7+   
 
 ### Resistances
-Armor       4+  // special vampire shit  
+Armor       4+  // special vampire shit    
 Will        6+  
-Body        8+  
-Reflexes    7+  
+Body        8+    
+Reflexes    7+   
 
 ### ACTIONS
 #### Vicious Stab
@@ -180,18 +180,18 @@ Reflexes    9+
 
 ### ATTACKS
 #### Claw
-| Name              | Range | Type          | Chance | Cost | Allocation | Target | Accuracy | Power | Damage | Keywords |
-|----------------   | ---   | ---           | ------ | ------ | -------- | -----  | ------   |-------|--------|----------|
+| Name | Range | Type          | Chance | Cost | Allocation | Target | Accuracy | Power | Damage | Keywords |
+|---|---|---|------|------|--------|-----|------|-------|--------|----------|
 | Claw              | 3"    | Melee Attack  | 4+     | 0    | 0-1        | Single | 0        | 0     | 1      | None     |
 
 #### Pound into the Ground
 | Name              | Range | Type          | Chance | Cost | Allocation | Target | Accuracy | Power | Damage | Keywords |
-|----------------   | ---   | ---           | ------ | ------ | -------- | -----  | ------   |-------|--------|----------|
+|----------------|---|---|------|------|--------|-----|------|-------|--------|----------|
 | Pound into the Ground | 3" | Melee Attack  | 3+ | 0    | 3 exactly | Single | 0 | 0        | 0 (4 vs smaller size) | None     |
 
 #### Great Ramming Charge
 | Name| Range | Type| Chance | Cost | Allocation | Target | Accuracy | Power | Damage | Keywords |
-|---| --- | ---| ------ | ------ | -------- | -----  | ------   |-------|--------|----------|
+|---|---|---|------|------|--------|-----|------|-------|--------|----------|
 | Great Ramming Charge | Special | Melee Attack | 3+ | 1 Movement Die| 1-3 Attack | Wide Attack | +3 | 0 | 1 | None |
 First: Move 6". The model may move through other models during this movement.
 Second: Attack each model you passed through, using Wide attack rules.
@@ -221,14 +221,14 @@ Reflexes    9+
 
 #### Axe Hack (Axe basic)
 | Name              | Range | Type          | Chance | Cost | Allocation | Target | Accuracy | Power | Damage | Keywords |
-|----------------   | ---   | ---           | ------ | ------ | -------- | -----  | ------   |-------|--------|----------|
+|----------------|---|---|------|------|--------|-----|------|-------|--------|----------|
 |Axe Hack           | 2"    | Melee Attack  | 5+     | 0      | Special    | Single | 0      | +1    | 1      | None     |
 
 
 #### Far Mountain Technique
 Triggered Reaction: After attack against model is resolved and all attack dice were dodged, allocate all defense dice as attack dice to this attack.
 | Name              | Range | Type          | Chance | Cost | Allocation | Target | Accuracy | Power | Damage | Keywords |
-|----------------   | ---   | ---           | ------ | ------ | -------- | -----  | ------   |-------|--------|----------|
+|----------------|---|---|------|------|--------|-----|------|-------|--------|----------|
 |Far Mountain Strike | 2" | Melee Attack    | 5+     | 0    | Special    | Single | 0        | 0     | 1      | None     |
 
 #### The Mountain Does not Move
