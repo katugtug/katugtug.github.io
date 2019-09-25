@@ -83,29 +83,23 @@ Mistform models cannot be harmed by attacks, except those of the Fire, Arcane or
 ## Model Profiles
 
 ## Die Types
-Attack Dice
-Defense Dice
-Movement Dice
-Wild Dice
+Attack Dice  
+Defense Dice  
+Movement Dice  
+Wild Dice  
 
-## Defenses
-Melee Defense
-Ranged Defense
-Magical Defense
+## Defenses  
+Melee Defense  
+Ranged Defense  
+Magical Defense  
 
 ## Resistances
-Armor       
+Armor         
 Mind        
-Body        
-Reflexes    
+Body          
+Reflexes      
 
-
-## Design Notes
-
-###  Attackers vs Defenses vs Resistances
-Good attackers should succeed 70% of the time. (4+)
-Good defenders should succeed 50% of the time. (6+)
-Good resisters should succeed 30% of the time. (8+)
+# Profiles
 
 ## Vampire Sword fighter - Fighter Class
 A vampire lord from an noble house, trained in warfare for centuries. Resistant to swords and spears, he throws himself in melee with great bravado.
@@ -201,8 +195,6 @@ Reflexes    9+
 | Great Ramming Charge | Special | Melee Attack | 3+ | 1 Movement Die| 1-3 Attack | Wide Attack | +3 | 0 | 1 | None |
 First: Move 6". The model may move through other models during this movement.
 Second: Attack each model you passed through, using Wide attack rules.
-Special Melee Attack 3+ / Allocation 1-3 Dice / 1 Target / Acc +5 / AP 0 / 1 Damage
-
 
 ## Dwarven Defender - Defender class
 A mighty warrior from the ancient holdfasts, able to hold the line against scores of lesser warriors.
@@ -268,13 +260,6 @@ Body        8+
 Reflexes    8+  
 
 
-
-
-
-
-
-
-
 ## Defenses Design Notes
 Defenses are active defenses, parrying, dodging, etc. They rely on a combination of training, athleticism and talent in regard to melee and ranged defenses, and meditation, focus and study with regard to magic defense.
 
@@ -295,18 +280,14 @@ Sticks and stones resistance.
 10+ Nude   
 9+  Clothing  
 8+  Light armor, gambeson, leather     
-7+  Good light armor, tough guy in light armor.  
-6+  Medium armors, scale, chainmail, etc.     
-5+  Good medium armor, tough guy in medium armor, Captain America
-4+  Plate and maille   
-3+  The Thing
+7+  Medium armors, scale, chainmail, etc.     
+6+  Plate and maille   
 
 ### Will 
 10+ Extremely compulsive person.
 8+  A normal person.
 7+  Someone with a strict and regimented lifestyle.
-5+  A person trained to resist the arcane or with incredible focus.  
-3+  Dr. Strange  
+6+  A person trained to resist the arcane or with incredible focus.      
 
 ### Body
 Some attacks are directed at the body directly. Poisons, etc. Body resistance is physical wellbeingbut also atheletisim and strength.
