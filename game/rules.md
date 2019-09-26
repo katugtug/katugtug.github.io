@@ -12,12 +12,6 @@
 
 Do this 8 times, each player now has 8 cards to use.
 
-## Warband building
-Models have classes: Defender, Brute, Support, Attacker
-Defenders guard others and provide them bonuses.
-Brutes take lots of damage and deal lots of damage, but offer no support to others.
-Support force multiplies, based on leadership, healing, adding attack or defense bonuses.
-
 ## Model Activation
 During a model's activation, they can do the following:
 - Use one ability on their card.
@@ -151,7 +145,7 @@ Triggered Reaction: After an attack against the model is resolved.
 3+ to succeed / Model becomes Mistform. Can only be damaged by Radiant, Fire and Arcane damage types.
 
 
-## The Great Ram of Shamborga - Brute Class
+## The Great Ram of Shamborga
 * Massive claws and fists
 * Ramming head
 * Light Armor, but natural hide.
@@ -272,7 +266,7 @@ Defenses are active defenses, parrying, dodging, etc. They rely on a combination
 3+:  One of the greatest in the living world.  
 
 ## Resistance Design Notes
-Passive resistances are generally lower than
+Passive resistances are generally lower than active ones.
 
 ### Armor
 Sticks and stones resistance. 
