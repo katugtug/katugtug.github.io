@@ -12,44 +12,97 @@ Or a type of class; Specialist, Profession, etc.
 
 Brainstorm
 
-Swordfighter
+The Melee Classes
+
+Fighter
+    Generalist, good with all weapons, but no tricks.
+Sword fighter
+    Bad against heavy armor, but great against light armor.
 Axe Fighter
+    Good against shields, tripping.
 Spear Fighter
+    Best range, good at counter attacks.
 Mace/Hammer Fighter
+    Good vs Heavy Armor, stunning effects
 Bow Fighter
+    Good vs light armor, good range
 Crossbow Fighter
-Gun Fighter
-Shield Fighter
+    Good vs all armor, requires reloading
+Arquebus Fighter
+    Good vs all armor, requires reloading, inaccurate but scary.
+Shield Wielder
+    Good vs projectiles, good in formation
+
+Styles
 
 Martial Artist
-Assassin
-Berserker (fury, frenzy, cannibalism)
-Ramming Attacker
-Burrower
+    Discipline, abilities that assist other fighting styles.
+Worshipper of Blood (fury, frenzy, cannibalism)
+    Bonus when anything dies, bonus for killing friends, bonus when killing.
+Rammer
+    Class that charges through others with powerful movement.
 Mechanic
+    Repair constructs, bonus to siege weapons
 Healer
+    Heals
 Acrobat
+    Movement stuff
 Pirates
+    Steals dice
 Scavengers
+    Benefits from corpses
 
+Dragonslayer
+    Bonuses vs larger opponents.
+Witchhunter
+    Bonuses vs magic users.
 
-Magic: Fire Evocation
+Magic: Fire
+    Area damage, damage over time.
 Magic: Ice
+    Damage over time, movement and defense debuffs.
 Magic: Thunder and Lightning
-Magic: Demon Summoning
-Magic: Curses
+    Stuns and direct damage
+Magic: Demon
+    Curses and marks to debuff.
 Magic: Necromancy
-Magic: Spirits
-Magic: Mind Control
+    Raise the dead, buffs to undead.
+Magic: Mind
+    Charms, fear, etc.
 
 War Strategy and Tactics
+    Bonuses based on being an officer, allow other models to do things.
 
-Type: Machine
-Type: Beast
-Type: Artillery
+Buy types like Undead, Construct, etc, they come with basic beneits.
 
 
-Affinity with same type?
+Alignment Classes
+Selfish
+Evil
+Good
+Benevolent
+
+Cause Classes
+Freedom Fighter
+Crusader
+
+
+Racial Classes
+Human
+
+Undead
+Demon
+Construct
+Human
+Elf
+Dwarf
+Spider
+Gnome
+Fungus
+Beast
+Abberation
+Repiltian
+
 
 
 

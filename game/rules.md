@@ -14,84 +14,85 @@ Do this 8 times, each player now has 8 cards to use.
 
 ## Model Activation
 During a model's activation, they can do the following:
-- Use one ability on their card.
-- Expend any number of movement points to move their movement rate (usually 3") per die.
+- Use 1 action.
+- Use a movement die to move. (push it or move 5");
+  
+## Model Profiles
+
+### Die Types  
+Attack Dice  
+Defense Dice  
+Movement Dice    
+Wild Dice    
+
+### Defenses  
+Melee Defense - Dodging, parrying and deflecting melee attacks.  
+Projectile Defense  - Dodging and anticipating missile attacks against you, either magical or mundane.  
+Arcane Defense  - Resisting mind control, curses and other magical attacks.  
+
+### Resistances
+Armor - Armor is resistance to physical trauma.  
+Will  - Resisting mind control, curses, fear effects.  
+Body  - Resisting poison, fire, electricity. Toughness.  
+Reflexes  - Resisting things that can only be dodged. Leaping clear of an area attack  
+
+### Stats
+Wounds - Number of wounds you can take before dying.  
+Size - size category. Used for some abilities.  
+Movement - All movements are modified by this number, its usually 0.
+
+## Items and Equipment
+Healing Potion - Action: cost 1 Attack - Heal 1 Wound.
+
+### Armor
+Gambeson - Armor - Grants 7+ Armor Defense, Melee and Projectile defense - 1, Reflex Resist -1
+Chainmail - Armor - Grants 5+ Armor Defense, Melee and Projectile defense - 2, Reflex Resist -2
+Plate and Mail - Armor - Grant 3+ Armor Resistance, Melee and Projectile defense - 3, Reflex Resist -3
+
+### Weapon
+... of Wounding - Weapon - {{Type}}, {{Handedness}} - For each wound caused by an attack with this weapon, test Body or take an additional wound.
+... of Precision - Weapon - Makes attacks 1 step easier. (4+ becomes 3+ to hit).
 
 ## Combat structure
-### Melee
+### Attacks, step by step
 1. Attacker moves into melee range.  
    * e.g. The vampire swordfighter moves into melee range of the monster.  
 2. Attacker picks an attack ability to use.
     * e.g. The vampire chooses to use *Vicious Stab*.
-3. Attacker pays the dice cost, if any, for the attack.
+3. Defender looks up their Melee Defense.
+    * e.g. **The Great Ram of Shamborga** has a Melee Defense of -1. (this isn't the best, he's a big fella)
+4. Attacker determines their chance of success by modifying the success chance by the defense of the opponent.
+    * e.g. *Vicious stab* as a success chance of 4+. The minus 1 from the melee defense makes it a 3+. The Ram is easier to hit than other targets. 
+5.  Attacker pays the dice cost, if any, for the attack.
     * e.g. *Vicious Stab* is cost 0.
-4. Attacker chooses how many dice they will roll for the attack from their selection of attack and wild dice.
+6.  Attacker chooses how many dice they will roll for the attack from their selection of attack and wild dice.
     * e.g. *Vicious stab* has a allocation of 1-3. The vampire chooses 3.
-5. Attacker rolls attack dice.
+7.  Attacker rolls attack dice.
     * e.g. The results are 2, 5, 6.
-6. Attacker compares the dice results to the attack's chance of success. These are **hits**. Those not in the success range are **misses**.
-    * e.g. *Vicious stab* has a chance of success of 4+. 2 is a miss. 5 and 6 are hits.
-7. Attacker informs the defender of his accuracy. 
-    * e.g. *Vicious Stab* has an accuracy of +1. 
-8. Defender looks up their Melee Defense.
-    * e.g. **The Great Ram of Shamborga** has a Melee Defense of 6+. (this isn't the best, he's a big fella)
-9.  Defender modifies his Melee Defense by the Accuracy of the attack by increasing the bottom of the range by 1.
-    * e.g. The great ram increases his melee defense to 7+ to resist this attack. (this is a bad thing, accuracy decreases the ram's chance to dodge.)
-10. Defender chooses how many dice they will roll to resist the attack. 
-    * e.g. The ram decides to roll 1 of his defense dice and 2 of his wild dice to try to resist.
-11. The defender rolls their defense dice, trying to roll above their Melee Defense. A successful defensive roll is called a dodge.
-    * e.g. The results are a 1, 5, 7. Two failures and a success. 
-12. The defender removes a number of attack hits equal to the number of the defensive dodges..
-    * e.g. 2 - 1 means the attacker now has only hit 1 time. The ram dodged one of the hits.
-
-13. Attacker informs the defender of the attack type. 
+8.  Attacker compares the dice results to the attack's chance of success. These are **hits**. Those not in the success range are **misses**.
+    * e.g. *Vicious stab* has a chance of success of 3+ (after being modified by defense). 2 is a miss. 5 and 6 are hits.
+9.  Attacker informs the defender of the attack type. 
     * e.g. *Vicious Stab* is an attack against the **Armor** of the opponent.
-14. Attacker informs the defender of the **Power** of the attack.
+10. Attacker informs the defender of the **Power** of the attack.
     * e.g. *Vicious Stab* has a power of +2.
-15. The defender looks up the defense corresponding to the attack type and modifies it by the Power of the attack.
+11. The defender looks up the resistance corresponding to the attack type and modifies it by the Power of the attack.
     * e.g. The Ram has an armor of 5+. The power of the attack brings that to 7+.
-16. The defender rolls a die for each hit from the attack, comparing them to the modified armor value.
+12. The defender rolls a die for each hit from the attack, comparing them to the modified armor value.
     * e.g. The Ram rolls 2 die. 1, 7. The 7 is an armor save, the 1 is a failure.
-
-17. The attacker informs the defender of the damage of the attack.
+13. The attacker informs the defender of the damage of the attack.
     * e.g. Vicious stab has a damage value of 1.
-18. The defender suffers wounds equal to the number of hits x the damage of the weapon
+14. The defender suffers wounds equal to the number of hits x the damage of the weapon
     * e.g. The ram suffers 1 wound.
-19. The defender checks to see if they have 0 or less wounds. If so, they are fall prone and gain the "Dying" condition.
-
-### Ranged and Magic, abbridged.
-Ranged combat is much the same as melee combat, except that the ranges are generally longer and ranged defense is used instead of melee defense. 
-
-Magic combat is also the same as ranged and melee, except that it generally attacks something besides armor.
+15. The defender checks to see if they have 0 or less wounds. If so, they are fall prone and gain the "Dying" condition.
 
 
 ## Glossary and Rules Reference
-
 ### Wide Attack
 Great sweeping attacks or tramping monsters can make wide attacks. A wide attack attacks each model with its full allocation of dice. Each model attempts to defend against and resist these attacks individually.
 
 ### Mistform 
 Mistform models cannot be harmed by attacks, except those of the Fire, Arcane or Radiant types. Mistform models can pass over rough terrain without penalty. 
 
-
-## Model Profiles
-
-## Die Types
-Attack Dice  
-Defense Dice  
-Movement Dice   
-Wild Dice   
-
-## Defenses  
-Melee Defense  
-Ranged Defense  
-Magical Defense  
-
-## Resistances
-Armor         
-Mind        
-Body          
-Reflexes      
 
 # Profiles
 
@@ -253,38 +254,3 @@ Will        5+
 Body        8+  
 Reflexes    8+  
 
-
-## Defenses Design Notes
-Defenses are active defenses, parrying, dodging, etc. They rely on a combination of training, athleticism and talent in regard to melee and ranged defenses, and meditation, focus and study with regard to magic defense.
-
-10+: A Hapless fool.   
-8+:  Familiar, but ultimately unskilled or uninterested defender.   
-7+:  A student.  
-6+:  A capable defender.  
-5+:  Extraordinary, 1/100, years of practice.  
-4+:  An exemplary defender.  
-3+:  One of the greatest in the living world.  
-
-## Resistance Design Notes
-Passive resistances are generally lower than active ones.
-
-### Armor
-Sticks and stones resistance. 
-
-10+ Nude   
-9+  Clothing  
-8+  Light armor, gambeson, leather     
-7+  Medium armors, scale, chainmail, etc.     
-6+  Plate and maille   
-
-### Will 
-10+ Extremely compulsive person.
-8+  A normal person.
-7+  Someone with a strict and regimented lifestyle.
-6+  A person trained to resist the arcane or with incredible focus.      
-
-### Body
-Some attacks are directed at the body directly. Poisons, etc. Body resistance is physical wellbeingbut also atheletisim and strength.
-
-### Reflexes
-Avoid falling off a cliff, avoid being cause by surprise or knocked prone, etc/.
