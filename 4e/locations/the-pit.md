@@ -63,7 +63,7 @@ Viridius and his chambers
 - a massive open area, now where the great orb used to sit in the center, its now missing, the room is globe shaped, the ceiling open to the air. There's heavy clouds today and a drizzle of rain.
 
 ## Overview 
-There are 3 routes to the great chamber, each of them bears some difficulty. One is to engage the goblin halls fully. 
+There are 3 routes to the great chamber, each of them bears some difficulty. One is to engage the goblin halls fully. The barracks can lead to the great chamber through a secret door.
 
 The goblins have rigged these halls with all manner of traps under the command of the hobgoblin leader, Sniks the Cunning. Keeps the goblins in line with 4 bugbears. He's not dumb, he's trying to find a way to get at the treasures below, weapons and armor and everything. He has one of the magic crossbows from the eladrin and is trying to make it work. He has a bit of an arrangement with the chokers below. The goblins live in an area of the complex meant for a garrison. There are barracks, etc. There was never a garrison stationed here, but it was built in case there was one needed. This has led Sniks to find a great number of eladrin styled items, swords, armor, etc, and his prized possession, an automated magical crossbow. He just cant seem to get it to work...
 - Blade traps  
@@ -102,13 +102,18 @@ The Chamber
 
 - Many of the dead elites are a different type of chiche knight than we've seen:
   - Eagle warriors are the rangers, foot fighters, fighting with macualtals.
-  - Jaguar warriors are mounted jungle fighters on great cats, fighting with great spears.
+  - Jaguar warriors are mounted jungle fighters on great cats, fighting with great spears. A few are here in an undead form.
   - Sun warriors are line infantry. Their armor is gilded with gold, they carry spears to throw in battle. They are more lightly armored (breastplate) but carry shields. They outlast their opponents, weathering ferocious charges, and finally landing decisive blows against tired opponents.
 
+- Around the chamber are discarded and broken green scales, covered in ancient blood.
+  - A great claw can be seen, severed. The death knight has it.
 
+- A great scroll is found, severed in two. 
+  - It is a chronicle of the building of a great ediface in the city of Vex Utu, a gleaming tower of polished stone, a monument to the Great Sun. It is shown to the north.
 
 Main plots to convey:
 
 Viridius was killed. 
 The Orb was stolen.
 The priest worships a sun god.
+

@@ -1,5 +1,65 @@
 # Classes 
 
+## Stat math
+Skill 4 is base: Skill 4 succeeds at hitting a 10 50% of the time.
+Skill 3 defense is base. 40% of the time, a defensive roll will succeed.
+POW 10 is the basic attack strength.
+Resist 3 is the base, giving a 40% base chance of a roll succeeding.
+
+## Core classes
+Your base stats are determined by your base class.
+
+### Generalist
+A generalist is a jack of all trades character. As a starting point, they are a blank slate, okay at most things.
+
+Melee Skill: +4
+Ranged Skill: +4
+Arcane Skill: +4
+
+Melee Defense:  +3
+Ranged Defense: +3
+Arcane Defense: +3 
+
+Armor: (Equipment)
+Body     +3
+Spirit   +3
+Agility  +3
+
+### Aggressive Melee Warrior
+Focused on attacking melee fighter.
+
+Melee Skill: +7
+Ranged Skill: null
+Arcane Skill: null
+
+Melee Defense:  +4
+Ranged Defense: +3
+Arcane Defense: +1 
+
+Armor: (Equipment)
+Body        +4
+Spirit      +4
+Agility     +1
+
+### Defensive Melee Warrior
+Melee Skill: +4
+Ranged Skill: null
+Arcane Skill: null
+
+Melee Defense:  +6
+Ranged Defense: +4
+Arcane Defense: +1 
+
+Armor: (Equipment)
+Body        +4
+Spirit      +4
+Agility     +1
+
+
+
+
+## class ideas
+
 In this game, you can build a character by selecting character classes and spending experience points. In a matched play game, you would have equal experience points. In a campaign, you gain additional experience to level up your characters on campaign.
 
 The system has a goal to provide a satisfying facsimile of any character from fantasy and related fiction.
@@ -73,7 +133,7 @@ Magic: Mind
 War Strategy and Tactics
     Bonuses based on being an officer, allow other models to do things.
 
-Buy types like Undead, Construct, etc, they come with basic beneits.
+Buy types like Undead, Construct, etc, they come with basic benefits.
 
 
 Alignment Classes
