@@ -28,7 +28,7 @@ The sun in the sky still grants her divine magic. Maybe it's not Pelor?
 * She is building an army of undead. 
   * The city of Vex Utu is plagued by thousands of unintelligent undead roaming around. 
   * She is constructing a great temple, a massive ziggurat, the largest ever seen, to honor her god. Zombies as salves.
-  * Her goal is to walk in the sun once more, by appealing to Pelor, honoring him with blood and death to prove her worth (He is the Sun, not Pelor, a mighty god of both life and outright destruction.)
+  * Her goal is to walk in the sun once more, by appealing to the Sun in the Sky, honoring him with blood and death to prove her worth (He is the Sun, not Pelor, a mighty god of both life and outright destruction.)
 
 # Vampires
 * Vampires can make vampire thralls. They have similar powers and weaknesses to vampires, but are blood bound to their master.. 

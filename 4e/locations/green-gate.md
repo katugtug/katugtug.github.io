@@ -36,7 +36,7 @@ title: Green Gate
 * The surface city is mostly intact, after fires and slaughter, that was a long time ago. 
   * It is a large area.
 * **Burrond** in his escape, brought down the **Moradin's Shield**, sealing the main entrance to the dwarven undercity.
-  * **Moradin's Shield** is a gate enchanted with ancient dwarven runes from the 3rd Age. It keeps a lot bad stuff in the dwarven halls.
+  * **Moradin's Shield** is a gate enchanted with ancient dwarven runes from the 10th Age. It keeps a lot bad stuff in the dwarven halls.
   * **Moradin's Shield** is a great bronze wall, it is where the Green Gate comes from, as it is generally open and visible to all. 
 * This gate still stands, 500 years later, but **Dowles** is trying to open it.
   * **Euchil** is here to stop that.

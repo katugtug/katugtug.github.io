@@ -4,6 +4,9 @@ title: 4e
 
 # If you're playing in my game, don't read this stuff :D
 ## SPOILERS BRO
+Except this: 
+* [Player's Guide](resources/players-guide)
+
 
 ## People and Plots
 * [NPC Registry](gm/npcs) 
@@ -12,8 +15,6 @@ title: 4e
 * [Session 5](gm/session-5)
 * [Session 6](gm/session-6)
 * [Session 7](gm/session-7)
-
-
 
 ## Locations
 * [Hopes End](locations/hopes-end)  
@@ -31,7 +32,7 @@ title: 4e
 * [Encounter Modifiers](resources/encounter-modifiers)
 * [Carousing](resources/carousing)
 * [Circle Orboros](resources/circle-orboros)
-* [Player's Guide](resources/players-guide)
+
 * [Skill List](resources/skill-list)
 
 ## PC
