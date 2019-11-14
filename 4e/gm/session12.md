@@ -32,12 +32,18 @@ One guard stands with his spear, guarding a passageway, torchlight can be made o
 
 The screams of the woman abruptly end, she has been swallowed whole.
 
-You enter into a circular cavern, here a priest in scales, surrounded by human followers, feeds a prisoner to a giant snake.
+You enter into a circular cavern, here a priest in scales, surrounded by human followers, feeds a prisoner to a giant snake. The torchlight reveals another here, Juras.
 
-You can see Juras here handcuffed.
+Profile: YIG, priest of Zehir. He is in his 30s, a human, his flesh has been wracked by sores, but half of his face now bears snake skin instead of human skin. He can ritually split his tongue, but can still talk fine. 
+- Yig came from the human kingdoms, a nobleman who bore a terrible curse, all of his children died. When the priests of Kord he paid could not heal him, saying the curse was a spiritual affliction more so than a physical one, he sought other means, eventually meeting a being he calls only the illuminator in the dark Freehaven night, who told him of a place in the north where he may find his true calling, drawn to north, he wandered on a spirit quest, until he was led here and met The Great One. 
+- Juras stands here, playing a weakling, he has information about how to travel north. He is playing a nerd, who discovered a secret pass through the mountains in an old dwarven book. He has learned the snakes want to go north, Yig will be hesitant to reveal this.
+
 
 ## Clues and stuff
 Tracks lead to arrow lake
-THe child tells the story of big men with snake skins who attacked them.
-The trail of Juras heads this way, the other way is to head towards the dwarven ruins.
+The child tells the story of big men with snake skins who attacked them.
+The trail of Juras heads this way, the other way is to head towards the dwarven ruins. 
 
+
+## Monsters and rewards
+Scale of the Serpent and Serpentine armor, advetentuers vault 2
