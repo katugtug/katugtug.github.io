@@ -20,7 +20,7 @@ Mark who Argos attacks in melee. If they shift or attack someone else, make a cl
 
 **Shoot with crossbow:** +12 vs AC. Hit 1d10 + 4.
 
-**Freehaven Insults: **+10 vs Will, Single, Standard Action. Range 10. Target is marked and pushed 3 towards Argos. 
+**Freehaven Insults** +10 vs Will, Single, Standard Action. Range 10. Target is marked and pushed 3 towards Argos. 
 
 **A Pirate's Life for Me,** Standard action: Shift 3 squares and regain 3d6 + 4 HP. Recharge 6.
 
