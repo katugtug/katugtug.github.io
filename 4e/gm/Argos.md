@@ -4,11 +4,12 @@ As tan as leather with a wirey black beard tied into knots and a balding head, A
 
 **Level 5 Fighter**
 
-**HP**: 56  
+**HP**: 64  
 **AC**: 21  
 **Fort**: 19  
 **Ref**: 17  
 **Will**: 16   
+**Initiative** +5
 
 **Attack vs AC:** +12  
 **Attack vs other:** +10  
