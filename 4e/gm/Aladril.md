@@ -23,9 +23,9 @@ Equipment: Elven swords, elven longbow, elven cloak, elven chainmail.
 
 **From the wilds, an arrow** blast 5, range 20, +8 vs reflex. Recharge 6
     Choose an enchanted arrow:   
-    *Dryad* - targets are slowed (save ends), 3d8 + 4 damage
-    *Mantis* - targets suffer ongoing damage 5 (save ends) and take 3d8+4 damage
-    *Prism* - targets are dazed (save ends) and take 2d8 +4 damage
+    *Dryad* - targets are slowed (save ends), 3d8 + 4 damage  
+    *Mantis* - targets suffer ongoing damage 5 (save ends) and take 3d8+4 damage  
+    *Prism* - targets are dazed (save ends) and take 2d8 +4 damage  
 
 **A gust of blades**, standard, 3 attacks, Aladril shifts 6. During this movement, he may make the attacks. +10 vs AC. 1d10+4. A target that is hit once is dazed. A target that is hit twice is slowed. A target that is hit 3 times is stunned. Recharge 5,6.
 
