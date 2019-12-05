@@ -1,7 +1,7 @@
 # Dwarven Halls
 
 ## Overview
-The city of Silver Point was once a prosperous surface town of the Emerald Kings, a place where the surface world could freely interface with the Dwarves below, trading in the many goods of the dwarven kings. That time is long past, the Dwarves below have fallen victim to a ravenous curse, beasts stalk their former halls, looters from the vampire kingdoms dig through the ruins for a certain treasure and the source of the curse, dwarven refugees pass generations in the high mountains searching for a cure for their people's suffering, and finally, a force below, seeing Moradin's Will (aka the Green Gate) has been breached, seeks escape from its prison. 
+The city of Silver Point was once a prosperous surface town of the Emerald Clans, a place where the surface world could freely interface with the Dwarves below, trading in the many goods of the dwarven clans. That time is long past, the Dwarves below have fallen victim to a ravenous curse, beasts stalk their former halls, looters from the vampire kingdoms dig through the ruins for a certain treasure and the source of the curse, dwarven refugees pass generations in the high mountains searching for a cure for their people's suffering, and finally, a force below, seeing Moradin's Will (aka the Green Gate) has been breached, seeks escape from its prison. 
 
 The players arrive after Moradin's Will has been sundered by the dark magics of the vampire wizard Tli Xahkec. Xahkec makes his way into the halls now, seeking the Curse of Mammon for his master.
 
@@ -51,6 +51,50 @@ Two towers flank the switchback entrance, while the tight infantry corridors and
 
 The dwarves of Ironback Fortress perished soon after the curse took hold, brother against brother, their impressive defenses were little defense against Mammon's Curse.
 
-Now days, goblin's hold the Ironback fortress, pelting those who pass below with poison arrows. Grizzer the Greatest, a goblin of small intellect but great savagery and charimsa. Hes got a number of pets, weird creatures like cloakers and the like he would love to unleash on an unsuspecting party.
+Formerly, goblin's held the Ironback fortress, pelting those who passed below with poison arrows. Grizzer the Greatest, a goblin of small intellect but great savagery and charimsa. Hes had a number of pets, weird creatures like cloakers. However, Tli Xahcec unseated him and raised many of his followers as undead. The rest have scattered.
 
-### Encounters
+Tli has left a 'garrison' here, led by a wight. The goblin skeletons rain down arrows on passersby.
+
+### Encounters in Ironback Fortress
+
+level 5: 
+1x Blazing Skeleton 5 Artillery 200
+1x Boneshard Skeleton 5 Brute 200
+4x skeletons with bows 3 4x 150
+
+7. **Elevation** - There's a raised area on the battlefield, maybe with some ladders for climbing. There's the ability to knock people off with bull rush for falling damage.
+ 
+Counter: 6 turns
+Objective: Reach the top of the switchback in 6 rounds.
+Success: You scatter the skeletons at the top of the balcony.
+Failure: Skeletons raise the alarm; the wight knows of the attack and will be prepared.
+
+**The entrance to the fortress: 1 tower has fallen, a great gate lies sundered**
+1 tower remains.
+
+1x zombie hulk 350 
+2x gravehounds 300
+10x zombie rotter minions 350
+
+Each turn a skeleton is added to the fight.
+Counter: in 4 turns, the wight arrives with his entourage, but afterwards no monsters appear.
+Objective: defeat the zombie hulk in time so you dont have to face everyone.
+
+The hulk throws a great barrel, it smashes on the ground and a great fire begins to rage on the top switchback platform, whipped by the winds and consuming the brush.
+When you enter fire, take ongoing 5. If you end your turn in fire, take another ongoing 5.
+
+12. **Creeping fire** A fire starts small at the beginning of the encounter, but grows quickly. Explosive barrels for extra fun.
+
+The vampire thrall arrives. Draped in a great golden cloak, he appears to be a commander or officer of the Sun Knights, the foot phalanx soldiers. He is flanked by 4 other lesser wights, also in formation with dirty gilded armor.
+
+The Sun Knight Commander is a Hobgoblin Commander (with +1 damage and +2 everything (level 7) else). The other thralls are Hobgoblin soldiers with +1 damage and +2 to everything (level 5)
+
+The fire and the edge of the switchback can be used to fight these guys. Separating their phalanx makes them mad. Standing in the light gives them ongoing 5 dmaage.
+
+They won't come out in the dark, but will fire arrows from the darkness at the party.
+
+
+Fortress loot:
+* Dwarven trade ledger
+* destroyed automatons
+* 3 parcels of treasure.
