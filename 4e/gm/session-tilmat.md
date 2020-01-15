@@ -75,7 +75,7 @@ But the brief calm passes and the true Tilmat spawns. He has all of the passives
 Passive: Riposte: When you miss the warrior, he deals 5 damage to you.
 Passive: Smoke: visibility limited to 3 squares. Cannot target outside of 3 squares.
 Passive: Inhospitable Ground - The ground becomes rough for all players, except the Jaguar.
-Passive: At start of mountains turn, all creatures within 6 squares get attacked with +10 vs reflex, if failed, they are pushed towards him 3 squares.
+Passive: At start of mountains turn, all creatures within 6 squares get attacked with +10 vs reflex, if failed, they are pushed towards him 3 squares. Creatures must make an athletics save
 Passive: Oppressive heat - If you start within 5 squares of Tilmat, lose a healing surge. If you cannot, become dazed.
 Passive: Each successful attack causes the spirit of an ancient chiche warrior to spawn. That warrior immediately makes an attack at +10 vs AC.
 Passive: Gains DR / 5.
@@ -84,9 +84,11 @@ Tilmat
 AC 23; Fortitude 26, Reflex 21, Will 22
 Attacks vs AC are +15
 Attacks vs Others are +13
-Takes 3 actions a turn. Has 120 HP.
+Takes 3 actions a turn. Has 240 HP.
 
 At will: +15, 1d10 + 4. Ongoing 5 fire.
+Encounter power:
+
 
 Encounter: Mastery: recharge 5,6
 Use one of the players abilities.
