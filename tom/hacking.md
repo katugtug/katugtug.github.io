@@ -19,10 +19,11 @@ ICE can have wound levels, with each level representing a further effect. Using 
 When a hacker fails to meet the defense of ICE with their hacking roll, the ice retaliates by immediately rolling an attack roll against the hackers console. Depending on the type of ice, wounds from these attacks have different effects, see below.
 
 ### ICE example
-    * **genelocked gun** - barrier - defense 15 - resistance 2D - attack 3d - damage 3d  
-    * **civilian keypad door** - dumb - defense 12 - resistance 1d - attack none - damage none    
-    * **military drone** - code gate - defense 16 - resistance 3d - attack 5d - damage 4d   
-    * ** military power armor** - sentry - defense 25 - resistance 4D - attack 6D - damage 6D  (trying to hack military power armor without the right console will get ur head exploded)  
+
+ * **genelocked gun** - barrier - defense 15 - resistance 2D - attack 3d - damage 3d  
+ * **civilian keypad door** - dumb - defense 12 - resistance 1d - attack none - damage none    
+ * **military drone** - code gate - defense 16 - resistance 3d - attack 5d - damage 4d   
+ * **military power armor** - sentry - defense 25 - resistance 4D - attack 6D - damage 6D  (trying to hack military power armor without the right console will get ur head exploded)  
 
 ### ICE creation guidelines
 Making up ice is just picking a difficulty using standard rules and assigning them "armor" and a "weapon", using standard equipment rules. Pick a type based on what you want the ice to accomplish. Sentries are rare, but obviously very scary. 
@@ -61,6 +62,7 @@ Consoles can have different types of wounds for this purpose and should be recor
     13-15: hacker tagged, ice knows location of hackers implant itself for 2d6 hours.
     16+: hacker tagged for 8d6 hours.
     trace wounds repair at the end of the encounter, but tags are permanent and must be waited out or removed by more esoteric means. The hacker does not know the duration of the tag. The cyberlink is directly connected to the central nervous system and shutting it off will defeat a tag with some nasty side effects, the least of which are nausea and clumbsiness for days or weeks. Shutting off a console is easier, but turning on a hot console before the tag expires immediately reveals the hackers location.
+    
 ### sentries: kill the hacker:  damage over resistance:
     same as getting shot with a gun, you die of wounds.
 
