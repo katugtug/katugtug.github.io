@@ -37,31 +37,34 @@ Consoles have different wound tables for each type of ice reaction. **When a hac
 
 Consoles can have different types of wounds for this purpose and should be recorded separately.
 ### code gate: destroy gear: damage over resistance  
-    1-3: stuns the hacker, -1d for all remaining actions and defend or retreat.
-    4-8: console damaged, -1D to all actions 
-    4-8: console severely damaged, -2D to all actions 
-    9-12: console inoperable, DC 15 tech roll on console dies. if succeed, -3D on all actions.
-    13-15: console broken. 
-    16+ : console destroyed. Its trash and can't be fixed.
-    code gate damage requires credits and tech skill to repair.
+* 1-3: **stuns the hacker**, -1d for all remaining actions and defend or retreat.  
+* 4-8: **console damaged**, -1D to all actions   
+* 4-8: **console severely damaged**, -2D to all actions   
+* 9-12: **console inoperable**, DC 15 tech roll on console dies. if succeed, -3D on all actions.  
+* 13-15: **console broken**.   
+* 16+ : **console destroyed.** Its trash and can't be fixed.  
+
+Code gate damage requires credits and tech skill to repair.
 
 ### barriers: stop hacker: damage over resistance:
-    1-3: stuns the hacker, -1d for all remaining actions and defend or retreat.
-    4-8: hacker delayed, -2D to all actions 
-    4-8: hacker severely delayed, -4D to all actions 
-    9-12: hacker lost, DC 15 hacking roll or jack out. if succeed, -6D on all actions.
-    13-15: hacker must jack out.
-    16+: hacker loses consciousness IRL and jacks out.
-    barrier wounds can be restored by resetting the console, 10 minutes offline.
+* 1-3: **stuns the hacker**, -1d for all remaining actions and defend or retreat.
+* 4-8: **hacker delayed**, -2D to all actions 
+* 4-8: **hacker severely delayed**, -4D to all actions 
+* 9-12: **hacker lost**, DC 15 hacking roll or jack out. if succeed, -6D on all actions.
+* 13-15: **hacker must jack out**.
+* 16+: **hacker loses consciousness** IRL and jacks out.
+* 
+barrier wounds can be restored by resetting the console, 10 minutes offline.
 
 ### tracers: seek to locate the hacker: damage over resistance
-    1-3: stuns the hacker, -1d for all remaining actions and defend or retreat.
-    4-8: hacker gives up location area, owner knows the hackers block
-    4-8: hacker gives up console, owner knows the exact location of the console
-    9-12: console tagged, ice knows location of powered console immediately for 2d6 hours.
-    13-15: hacker tagged, ice knows location of hackers implant itself for 2d6 hours.
-    16+: hacker tagged for 8d6 hours.
-    trace wounds repair at the end of the encounter, but tags are permanent and must be waited out or removed by more esoteric means. The hacker does not know the duration of the tag. The cyberlink is directly connected to the central nervous system and shutting it off will defeat a tag with some nasty side effects, the least of which are nausea and clumbsiness for days or weeks. Shutting off a console is easier, but turning on a hot console before the tag expires immediately reveals the hackers location.
+* 1-3: **stuns the hacker**, -1d for all remaining actions and defend or retreat.
+* 4-8: **hacker gives up location area**, owner knows the hackers block
+* 4-8: **hacker gives up console**, owner knows the exact location of the console
+* 9-12: **console tagged**, ice knows location of powered console immediately for 2d6 hours.
+* 13-15: **hacker tagged**, ice knows location of hackers implant itself for 2d6 hours.
+* 16+: **hacker tagged** for 8d6 hours.
+* 
+Trace wounds repair at the end of the encounter, but tags are permanent and must be waited out or removed by more esoteric means. The hacker does not know the duration of the tag. The cyberlink is directly connected to the central nervous system and shutting it off will defeat a tag with some nasty side effects, the least of which are nausea and clumbsiness for days or weeks. Shutting off a console is easier, but turning on a hot console before the tag expires immediately reveals the hackers location.
     
 ### sentries: kill the hacker:  damage over resistance:
     same as getting shot with a gun, you die of wounds.
