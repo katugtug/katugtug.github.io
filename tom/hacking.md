@@ -53,7 +53,7 @@ Code gate damage requires credits and tech skill to repair.
 * 9-12: **hacker lost**, DC 15 hacking roll or jack out. if succeed, -6D on all actions.
 * 13-15: **hacker must jack out**.
 * 16+: **hacker loses consciousness** IRL and jacks out.
-* 
+  
 barrier wounds can be restored by resetting the console, 10 minutes offline.
 
 ### tracers: seek to locate the hacker: damage over resistance
@@ -63,7 +63,7 @@ barrier wounds can be restored by resetting the console, 10 minutes offline.
 * 9-12: **console tagged**, ice knows location of powered console immediately for 2d6 hours.
 * 13-15: **hacker tagged**, ice knows location of hackers implant itself for 2d6 hours.
 * 16+: **hacker tagged** for 8d6 hours.
-* 
+  
 Trace wounds repair at the end of the encounter, but tags are permanent and must be waited out or removed by more esoteric means. The hacker does not know the duration of the tag. The cyberlink is directly connected to the central nervous system and shutting it off will defeat a tag with some nasty side effects, the least of which are nausea and clumbsiness for days or weeks. Shutting off a console is easier, but turning on a hot console before the tag expires immediately reveals the hackers location.
     
 ### sentries: kill the hacker:  damage over resistance:
