@@ -70,22 +70,22 @@ Consoles can have different types of wounds for this purpose and should be recor
 
 ### example console 
 
-sensenet dx-240 - basic street hacker toolkit, offensive
-    passive defense: 10                      (use cybersecurity for active defense)
-    resistance: basic (1d)                   (same as padded clothing)
-    attack damage: aggressive 4D+1           (same as a long colt)
+    sensenet dx-240 - basic street hacker toolkit, offensive
+        passive defense: 10                      (use cybersecurity for active defense)
+        resistance: basic (1d)                   (same as padded clothing)
+        attack damage: aggressive 4D+1           (same as a long colt)
 
-amazonia private detail bh-01 - elite security corporate hackers
-    passive defense: 14                         (firewall = cover)
-    resistance: good 3d                         (kevlar) 
-    attack roll: hacker's hacking skill
-    attack damage: 6D                           (rifle)
-    bonuses: 
-        security shielding - +1D damage resistance vs sentries
-        incognito mode - +1D damage resistance vs tracers, ignore first tracer wound (i.e. take the wound, but dont give up hacker's block)
-        automated annihilation protocols - console responds as ICE if attacked
-            sentry type - attack as hacking skill - damage 6d
-        hydra protocols - if the console would suffer a tag or give up its location (a 2nd or more wounds), roll a die. On an odd, the console explodes instead and the jacked in hacker must make a willpower 15 roll or suffer a wound)
+    amazonia private detail bh-01 - elite security corporate hackers
+        passive defense: 14                         (firewall = cover)
+        resistance: good 3d                         (kevlar) 
+        attack roll: hacker's hacking skill
+        attack damage: 6D                           (rifle)
+        bonuses: 
+            security shielding - +1D damage resistance vs sentries
+            incognito mode - +1D damage resistance vs tracers, ignore first tracer wound (i.e. take the wound, but dont give up hacker's block)
+            automated annihilation protocols - console responds as ICE if attacked
+                sentry type - attack as hacking skill - damage 6d
+            hydra protocols - if the console would suffer a tag or give up its location (a 2nd or more wounds), roll a die. On an odd, the console explodes instead and the jacked in hacker must make a willpower 15 roll or suffer a wound)
 
 ### Making consoles
 Making a console is picking armor and a weapon using standard equipment rules. Consoles may come with a Hacking bonus as well, or a hacking bonus in some circumstances, such as against sentries.  They may also come with a Cybersecurity bonus, to raise the difficulty of hacking the hacker's console.
