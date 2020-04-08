@@ -75,6 +75,7 @@ Consoles can have different types of wounds for this purpose and should be recor
         resistance: basic (1d)                   (same as padded clothing)
         attack damage: aggressive 4D+1           (same as a long colt)
 
+
     amazonia private detail bh-01 - elite security corporate hackers
         passive defense: 14                         (firewall = cover)
         resistance: good 3d                         (kevlar) 
