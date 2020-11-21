@@ -1,4 +1,4 @@
-Dark Age fantasy in an age of myth 
+# Dark Age fantasy in an age of myth 
 
 Might makes right. The wilderness is dangerous and travel is uncertain. Magic is a source of power, but all magic comes at great cost. Centuries ago, artisans built great walls and monuments, but those lie in ruins. Every town is a fortress, only walls and armed men can allow a settlement to grow. Many fall each year. The roads are pitted and treacherous and the settled races look to a bleak future.
 
