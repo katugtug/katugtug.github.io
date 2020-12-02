@@ -32,6 +32,9 @@ The climate in **Lurzig** is temperate, but can reach very high temps in the sum
 
 Magic in **Lurzig** that doesn't originate from the religious orders of **the Three** is considered dangerous at best and foul at worst. The King's **Arcanium**, both an organization and a location, monitors the magick use in the city and all of the Grunstadt. Petty magick is tolerated but frowned upon. Cloaked mage hunters, covered in the anti-magick warding tattoos, seek out renegade magick users who cross prescribed lines. The mage hunters are feared as much as the renegade mages themselves.
 
+## Surrounding area
+
+Grunstadt 
 
 
 ## Groups
@@ -48,4 +51,4 @@ Magic in **Lurzig** that doesn't originate from the religious orders of **the Th
     * 
 
 
-{% include menu.html menutype="campaign" %}
+{% include menu.html menutype="campaign" linebreaks="true" %}
