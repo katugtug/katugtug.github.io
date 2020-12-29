@@ -4,7 +4,7 @@ title: Underwater Base
 
 ## Notes on Underwater Stronghold
 
-**Dry docks**: Essentially a large pool that o[ems out in the bottom to the sea.  The tile work here is undecorated, small and close together. Those on the floor are slightly porous, which might be uncomfortable to walk on in bare feet but not unmanageable.  There are some hooks along the wall by the doorway which would have been used for towels.
+**Dry docks**: Essentially a large pool that opens out in the bottom to the sea.  The tile work here is undecorated, small and close together. Those on the floor are slightly porous, which might be uncomfortable to walk on in bare feet but not unmanageable.  There are some hooks along the wall by the doorway which would have been used for towels.
 
 **Receiving**: A large open area with a very smooth floor and rounded ceiling.  Some basic decorations on the  There is an obvious passage to the intended storage area for goods brought for the general upkeep of the place (in times past)
 
