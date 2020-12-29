@@ -6,12 +6,14 @@ campaign: Scattered Brass
 order: 1
 ---
 
-# Scattered Brass Handout
+# Scattered Brass
  
-Scatter'd bits, scatter'd bits
-    lying in the street
-a bit you for and a bit for me
-    lets get something to eat
+    Scatter'd bits, scatter'd bits  
+        lying at a dead mans feet
+    a bit you for and a bit for me    
+        lets get something to eat
+
+        -- childrens hymn  
 
 The year is 1582 from the Founding. The common folk, wronged and robbed, cling to superstition for succor. Disease runs rampant in the cities. Men and women are shipped off to wars in far away lands, only to return mutilated, traumatized and broken... if they return at all. All manner of villainy lurks in people's hearts, as they strive to overcome each other with either violence or treachery. The gods are fickle, if not cruel. Priests are charlatans. Sages are mostly mad. At the edges of civilization, talk of monstrosities unknown strike fear into the hearts of men, circling the light of civilization like a camp fire.
 
@@ -20,7 +22,7 @@ Into this world, you were born. You've found your way to the city of Lurzig or y
 Social strata are set in stone in the cities of the Grunstadt. Your birth determines your place in society and its rarely shook off. 
 
 ## Lurzig
-**Lurzig** is the seat of the crown and the capital of the **Grunstadt** confederation. The confederation consists of 5 total states, all supporting **King Maxwell Herrscher** in fealty and his central authority radiates from **Lurzig**. **Lurzig** is a port city. Goods from the southern half of the continent make their way here and from here catch the trade winds out into the **Far Sea**, a body of water that stretches to unknown lands to the east and the other 2 continents to the north. **Lurzig** is an idea setting out point for voyages to the east, but none have ever returned and few, excepting perhaps the king himself, will finance such a thing.
+**Lurzig** is the seat of the crown and the capital of the [Grunstadt confederation]({% link zweihander/grunstadt.md %}). The confederation consists of 5 total states, all supporting **King Maxwell Herrscher** in fealty and his central authority radiates from **Lurzig**. **Lurzig** is a port city. Goods from the southern half of the continent make their way here and from here catch the trade winds out into the **Far Sea**, a body of water that stretches to unknown lands to the east and the other 2 continents to the north. **Lurzig** is an idea setting out point for voyages to the east, but none have ever returned and few, excepting perhaps the king himself, will finance such a thing.
 
 The port of the city is its beating heart. Hundreds of ships pass through in a season, bringing goods and people from distant lands as well as their poxes and plagues. The **shipworkers union** is a powerful entity in Lurzig, wielding a softer power, but a power nonetheless, that is second only to the crown. 
 
@@ -30,7 +32,8 @@ For most though, entrance to the plaza is not attainable. They toil away in the 
 
 The climate in **Lurzig** is temperate, but can reach very high temps in the summer months when hot air from the plains pushes in. In winter, it is cold and wet, but sea ice is never a concern.
 
-Magic in **Lurzig** that doesn't originate from the religious orders of **the Three** is considered dangerous at best and foul at worst. The King's **Arcanium**, both an organization and a location, monitors the magick use in the city and all of the Grunstadt. Petty magick is tolerated but frowned upon. Cloaked mage hunters, covered in the anti-magick warding tattoos, seek out renegade magick users who cross prescribed lines. The mage hunters are feared as much as the renegade mages themselves.
+Magic in **Lurzig** that doesn't originate from the religious orders of **the Three** is considered dangerous at best and foul at worst. The King's **Arcanium**, both an organization and a location, monitors the magick use in the city and all of the Grunstadt. Petty magick is tolerated but frowned upon. Cloaked mage hunters, covered in the anti-magick warding tattoos, seek out renegade magick users who cross prescribed lines. The mage hunters are feared as much as the renegade mages themselves, but they have the power and protection of the crown behind them. Some see this as persecution, but most see it as good public policy; magic incidents have had a terrible cost of life in the past.
+
 
 ## Surrounding area
 
