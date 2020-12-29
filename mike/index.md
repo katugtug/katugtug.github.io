@@ -4,4 +4,5 @@ title: Mike Game
 
 # Mike Game
 
-* [Underwater Base](underwaterbase)
+* [Brice Notes](bricenotes)  
+* [Underwater Base](underwaterbase)  
