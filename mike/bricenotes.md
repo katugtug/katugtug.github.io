@@ -2,6 +2,16 @@
 title: Brice Notes
 ---
 
+## 1/4/2021
+
+We fly into the tower.  
+We talk past some kobolds.  
+We fight a kobold alchemist and his gunpowder ooze.  
+Toots almost gets the party killed due to his ignorance.  
+But Toots drinks a potion of nature appreciation and gets turned into a crocodile.  
+Toots gives all his money away; all that matters now is how to stop Tiamat.   
+
+
 ## 12/28/2020
 
 We started the adventure in the hut of the Ah-killa.
