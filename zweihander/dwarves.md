@@ -15,3 +15,5 @@ In the end, the dwarves discovered that bringing the shard minds together caused
 The sacrifice of the dwarves paved the way for human prosperity in the modern world. Even though many survived, their holdings were gone. Some dwarves transitioned to all dwarven communities on the surface. Some integrated with human settlements. But in many cases, these dwarven caravans met a terrible fate. They did not have the stability of their mountain homes and suffered for it. They still suffer for it near a millennia later. The dwarven loss of their homeland stings the heart of each and every one. By the 1500's, the age of the dwarves has come to a close. It is now the age of men.
 
 The dwarven cities stand as they always have, filled with legendary machines and craftsmanship. The fruits of these holds have inspired scores of expeditions. But the mind numbing echoes of the scream that killed the dwarves still persists and those explorers who do not turn back are instead rendered dumb or mad. 
+
+The halls of the dwarves are avoided by all in the current day.

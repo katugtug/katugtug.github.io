@@ -2,13 +2,39 @@
 title: Brice Notes
 ---
 
+## 1/11/2021
+We walk into kobold room.
+
+Ashiawh has lots of pieces here. 
+
+Lots of books here, things from the wrends.
+
+4th floor, clanking, hissing, steam.
+
+Frozale, god of deliberations and secrets, hard working studious, secret messages, riddles. 
+
+Pantheon is universal.
+
+Up up up my beautiful balloon
+
+Aerylith, a dragon of powerful intent. But apparenlty not a fighter.
+
+She is still in the cage.
+
+
+
 ## 1/4/2021
 
 We fly into the tower.  
+
 We talk past some kobolds.  
+
 We fight a kobold alchemist and his gunpowder ooze.  
+
 Toots almost gets the party killed due to his ignorance.  
+
 But Toots drinks a potion of nature appreciation and gets turned into a crocodile.  
+
 Toots gives all his money away; all that matters now is how to stop Tiamat.   
 
 
