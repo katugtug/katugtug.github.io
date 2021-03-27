@@ -68,10 +68,6 @@ There isn't much for the outfitting of adventurers, but that which overlaps with
 
 Much of the old families have either integrated into the town in some way, or keep to themselves in the rest of the valley which is largely unhindered by the silver trade and remains mostly peaceful. Small farms dot the valley, with the people there generally under no rulership except the Lord Mayor of the township, who at this point is just and fair, but in previous times has been less so.
 
-
-
-
-
 ## The lair of Keziah
 Keziah's lair is a dug out series of three underground areas, filled with the trappings of her witchcraft. Roots, herbs, vines, jars of small rotten things, all stay in jars upon the walls.
 
@@ -89,6 +85,8 @@ The room exits through a great barred black door, but the door has fallen off it
 ### The Lab
 Water drips from above and trickles out of the long rotted door. The smell of musty rotting wood and a sulfurous stench fill the air. Hundreds of pages, rotted brown and decaying cover the floor. Bookshelves, 4 large ones, lay toppled on the floor. A great still, with a small chimney running into the ceiling sits on a desk. A long dead body lies decaying on the ground to the east, sprawled in such a way that it is clear she died clutching her throat. She has a small leather satchel still slung over her decaying shoulder. She is an adventuerer from the Sword Coast, here to loot Keziah's treasures. Her journal is mostly intact, its from 3 years ago. The book of rituals found itself to a Waterdeep merchant with some provenance, being among the possessions of a deceased former major of the Hindalew township. In the margins, some notes are scrawled about the sealing of Keziah Mezerine. They came to town a few years ago, asked some questions and eventually found their way to her home and broke the seal. Inside though, most of them died.
 
+
+
 **From the lab, the players can piece together some of Keziah's work.**
 - Orange rooted hallfeather - a type of leaf that drives animals mad, similar to rabies. Makes them aggressive.
 - Waukeen's folly - a type of solvent, it ruins silver, making it unsmeltable and turning smelted silver to a green rust.
@@ -102,6 +100,8 @@ Myconids are peaceful hippie mushrooms, who like the quiet. But this one needs t
 
 Things he wants: Safety of his spores, peace and transquility, source of food.
 
-If they find a way past this myconid guard, they will learn he was not lying about spores. A field of green buboes line the 
+If they find a way past this myconid guard, they will learn he was not lying about spores. A field of green bubbles line the path, threatening to burst at any time. It takes acrobatics to tip toe through these or some other method. Con 12 or 1d6 damage
 
- 
+## The hall
+
+
