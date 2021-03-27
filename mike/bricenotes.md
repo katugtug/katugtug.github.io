@@ -2,6 +2,114 @@
 title: Brice Notes
 ---
 
+## 3/15/2021
+
+
+
+## 3/1/2021
+
+**5 heart pieces of Tiamat**
+We have: 2 keys
+One:  1 piece
+
+Why ahve we been summoned?
+What do you want with Tiamat's heart?
+What is it like on the moon?
+
+WHY DID YOUR SON TAKE THE THRONE? - he was good
+
+Lunar tether
+
+silver dragon
+human mage
+gnome
+
+Gzemnida the ever eye, king of the beholders, 100 stalks
+
+Toots seeks knowledge to bring lasting prosperity to my people. I will do
+
+iko + phillipa - did they get the power? 
+Dragon and the void
+Remove the void
+
+Moon Elf elf king
+Gai'Faera'Dra - Wood Elf Queen
+
+Moon elf queen -     
+Mite
+Huma
+10 figures
+
+Aliskan - the enslaved dragonborn that the elf king has captured. A green dragonborn. Fiercely loyal
+
+Ancient Powerful Dragon - THE FORGOTTEN WILL RESSURRECT
+ - dragons 
+
+Dart'Hir Mal'Calla - prince pope traitor man, elf king son.
+
+Elf assassin - Crescent moon assassin
+Cresent moon ass - 
+   A mistake
+   State reasons
+   2 moon elves left
+
+Assassinate
+
+
+## 2/22/2021
+
+Cea'Vahla'Sal - sea
+
+Ghast -- first of the blue, 
+Vaux -- green
+Bael - ancient dragons
+
+Ph'lun'Sea - Moon elf king
+- summoned us
+
+Moon elf capitol -
+   palace of the night
+
+El'Ion Duro'Thil -- chief druid
+Kraken -> Mortals (10) -> 
+
+
+## 2/15/2021
+- Pirate is at the buffet
+- Abea is a celestial, i.e. but he's a fiend. 
+  - Prison 
+
+in the middle of a fig is the answer
+pit
+
+## 2/1/2021
+
+-  Zhal'Urilor'Thay - forgotten headed here.
+-  The forgotten
+   -  leadership:
+      - Krill - black dragonborn, open hand, new order is under my thumb.
+      - Olam, the white guy, tranquility
+      - Screeta, green dragonborn, shadow, seeecrets
+   -  Ashrei -  aggressive
+   -  Wrend - study, 4 elements
+
+
+## 1/18/2021
+
+Baeghor, aerylith's dad
+ - HE IS GHAST
+
+Krill, leader of Forgotten
+
+Zhal'Urilor'Thay - forgotten headed here.
+
+Hey, we beat Wrend
+
+Gave scroll back to the blue dragonborn.
+
+We win.
+
+
 ## 1/11/2021
 We walk into kobold room.
 
@@ -64,7 +172,7 @@ The Wrend - a title and a family
 
 Scrolls
 * Scroll of Air - told by Cathra - opens portal to plane of air.   
-* Resurrection Scroll - rez tiamat + heart + body, blood, mind to complete rez.   
+* Resurrection Scroll - rez tiamat + heart + body, blood, mind to complete rez.
 
 Blue dragonborn are loyal to blue dragon ghast
 - ghast conquered cloud giants  
