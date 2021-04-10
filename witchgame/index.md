@@ -2,8 +2,7 @@
 title: The Witch Game
 ---
 
-{% include menu.html menuof="The Witch Game" linebreaks=true %}
-
+{% include menu.html menutype="campaign" menuof="The Witch Game"  linebreaks=true %}
 
 # Preface
 Dream magic - The scenario uses a type of magic called dream magic/onieromancy that is destructive to the Weave, the magical framework that allows magic to be used with relative safety. The goddess Mystra creates and protects the Weave. In the 2 instances the Weave has failed, there was a spellplague, a terrible time of chaos and upheaval, where magic had terrible and unpredictable effects. Continents were laid bare, sank below the ways, the sky caught fire, etc. Dreams in this instance are the animus of a creature. It's raw, creative energy, yet to be expressed. Mortals have relatively tame dreams, but the dreams of gods and elder beings are very potent; they are the source of their power and when stolen and used up to create magic, they can be a powerful catalyst and make the impossible real.
