@@ -1,3 +1,9 @@
+--- 
+title: WitchHandout
+---
+
+{% include menu.html menutype="campaign" menuof="The Witch Game" linebreaks=true %}
+
 Hey, so let's play DND.
 
 Here is the handout.
