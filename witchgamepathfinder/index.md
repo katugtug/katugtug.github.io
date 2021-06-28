@@ -16,19 +16,19 @@ Choose relevant monsters
 Select magic item rewards
 
 ### Town Services
-Simple weapons and armor.
-Many provisions for travel, adventuring gear, things pertaining to mining, lanterns, etc.  
-Stables with horses, mules, etc for sale. Including a warhorse - key, one of the keziah adventuring party died and they sold his horse. A brevoyan charger.  
-The lord mayors home sits high on the hill overlooking town.
-The docks, where goods are moved to wagon caravans for the over land journey. Here also, Viro and Hoss offices.
-The mercenary encampment, where the Goldriver Company is camped. They guard caravans.
+* Simple weapons and armor.
+* Many provisions for travel, adventuring gear, things pertaining to mining, lanterns, etc.  
+* Stables with horses, mules, etc for sale. Including a warhorse - key, one of the keziah adventuring party died and they sold his horse. A brevoyan charger.  
+* The lord mayors home sits high on the hill overlooking town.
+* The docks, where goods are moved to wagon caravans for the over land journey. Here also, Viro and Hoss offices.
+* The mercenary encampment, where the Goldriver Company is camped. They guard caravans.
     - The merc company is here long term, they have weapons and armor and a smithy to repair and maintain arms and armor.
-The Chauncey, the fancy hotel
-The River's Way, the big tavern
-The hostel, a cheap place where miners stay.
-Farms, houses and other minor services.
+* The Chauncey, the fancy hotel
+* The River's Way, the big tavern
+* The hostel, a cheap place where miners stay.
+* Farms, houses and other minor services.
 
-Potential scenes
+### Potential scenes
 * The players enter the town on their cart.
   * In the distance, the sound of revelry can be heard.
   * The party is on account of a great bear that the miners have killed.
@@ -37,7 +37,7 @@ Potential scenes
 * The PCs enter the tavern and find the miners between a mixture of drunken rebellion and revelry. Thinking that their troubles are over with the great bear having been killed. They expect to be back to work soon.
 * The party may spot an old woman, peering from an alley. She is as an old woman, Dyra she says her name is if people are friendly. A flock of crows rest in the heights of the alley, cawing noisily as she talks. A cry rings out at the end of the conversation, as 2 footmen come close, hurrying over. The players may be distracted but she turns into a bird and disappears. The whole flock takes flight.
 
-Secrets and Clues
+### Secrets and Clues
 * Keziah Mazerine was a spellcaster around here with a fearsome reputation. She was killed by the Seven Swords of Agor some thirty years ago.
   * Keziah's magic was dangerous.
   * She wanted to see the miners removed permanently from the valley.
