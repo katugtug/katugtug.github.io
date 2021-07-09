@@ -28,6 +28,7 @@ Water drips from above and trickles out of the long rotted door. The smell of mu
 - Orange rooted hallfeather - a type of leaf that drives animals mad, similar to rabies. Makes them aggressive.
 - Waukeen's folly - a type of solvent, it ruins silver, making it unsmeltable and turning smelted silver to a green rust.
 - Good old fashioned poison - a variety of poisons to make people sick.
+- Twisted crows feet talismans.
 - 5 tablets, each inscribed with a name. Cleanly broken in two. A gleaming chisel stands nearby.
   - These are old Waterdeep, Neverwinter and Amn family names. History; They are merchants, all in prospecting and mining businesses. Except 2, one an famous army officer, one a mercenary captain. 
 

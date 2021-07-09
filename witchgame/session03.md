@@ -84,3 +84,6 @@ Blevins does know the location, but will not disclose it to any bootlicking city
 
 Recap
 The party sleeps and kidnaps the 2 foot knights. They steal the majors stagecoach and end up killing him by accident. They decide to talk to Blevins. They arrive at the silvertounge before the knights, Blevins is here to warn Pip, a friend of his, to seek shelter outside of the valley and away from the silvertongue. THere are fish monster is the basement and the knights show up in the common area. 
+
+Blevins has told the party about the location of the Keziah's home. North of the standing stones he says.
+
