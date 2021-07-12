@@ -4,6 +4,23 @@ title: The Pathfinder Witch Game
 
 {% include menu.html menutype="campaign" menuof="The Witch Game"  linebreaks=true %}
 
+## Session 3
+* Strong start:
+  * The protean monster ravages the townsfolk while a fire rips through the stately manor house on the hill.
+
+### NPC
+* Raicliff - Son of the lord mayor, studious, nerd, not a fighter. 30 something.
+* Lord Mayor Hans - The landed noble, a count of the valley, his claim recognized by House Surtova and the other noble houses, he swears fealty to King Noleski Surtova.
+
+### Possible Encounters
+* 2 Skum 
+
+#### House Fire
+* Manor house fire, the Raicliff is trying to save great tottering piles of books and manuscripts from the fire.
+* Up the stairs, the fire rages in the bedroom of the lord mayor.
+* In the bedroom, fish monsters roam, Kuo Toa, having hacked off the heads of a number of orgy goers, they now descend on the panicked and nude lord mayor. They scream HEADS FOR ALGORATH in their skittering tounge of fish croaks.
+
+
 
 ## Session 2
 Review the characters, read journals.
