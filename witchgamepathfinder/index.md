@@ -11,14 +11,61 @@ title: The Pathfinder Witch Game
 ### NPC
 * Raicliff - Son of the lord mayor, studious, nerd, not a fighter. 30 something.
 * Lord Mayor Hans - The landed noble, a count of the valley, his claim recognized by House Surtova and the other noble houses, he swears fealty to King Noleski Surtova.
-
 ### Possible Encounters
-* 2 Skum 
 
 #### House Fire
 * Manor house fire, the Raicliff is trying to save great tottering piles of books and manuscripts from the fire.
 * Up the stairs, the fire rages in the bedroom of the lord mayor.
-* In the bedroom, fish monsters roam, Kuo Toa, having hacked off the heads of a number of orgy goers, they now descend on the panicked and nude lord mayor. They scream HEADS FOR ALGORATH in their skittering tounge of fish croaks.
+* In the bedroom, fish monsters roam, Kuo Toa, having hacked off the heads of a number of orgy goers, they now descend on the panicked and nude lord mayor. They scream HEADS FOR ALGORATH in their skittering tounge of fish croaks. Algolthus.
+* The mayor will reward the party with some coin and a favor if they wish it.
+* In the library of the manor, the learned can learn all about the history of the region and other lore.
+
+#### City fight with Monster
+* In the chill air of the night, illuminated by the pale moon, a creature makes its way from the river into the town.
+  * Give everyone 1 mercenary guard with a torch and a sword.
+  * The creature has AC 14, Ref +2, Will +5, Fort +8 and 100 HP. Each time it takes damage, it will spit out a sewer ooze. Fire doesn't make oozes come out.
+  * If must make its move to leave, but it can make its +10 Melee attack 1d8 + 5 at any time. 
+  * If the monster takes fire damage from a source, on its turn, it will move away from the source and try to stay out of melee with any torch bearer that has damaged it.
+  * Torch does 1d6 fire damage.
+  * In this way, they should be able to drive the monster back.
+  * Shops around the square: Smithy, General Store, Tavern, Inn
+  * Even if it backs away for 1 action, it can still attack. 
+  * If they push it back 10 squares, it retreats.,
+
+#### Meeting with the knights
+* Perhaps morning after attack?
+* Knights are mounting up, horses to carry a large cart filled with supplies. 7 knights in total. They bear the seven swords on some of their shields and finery.
+* Alina will talk to the PCs. We're off to put an end to this problem and seal up the witch's lair from which all these monsters are coming out.
+* They eye the druid suspiciously. We'll brook no interference here. Stay out of our way.
+* They are headed up the road to the silvertongue inn.
+
+#### Meeting with Dyra
+* A pair of crows stand on a tall building, they catch your eye and you look below to see an old crone in rough spun clothing, hobbling into an alleyway.
+* If you follow, she will converse with you. It is Dyra, an old woman, who has lived here for 80 years she says. 
+* Dyra wants to tell the players to be cautious with the beast. It is not as it seems. She can tell you the tale of Keziah and how she stole from the underwater courts of these creatures. 
+* just then, a group of knights come around the corner, and say stop right there witch, Alina has some questions for you she does!
+* The party must decide what to do.
+
+#### Wagon trouble
+* The wagon below is overturned, and still has treasure. A number of local yokels are coming back to retrieve it, but you've ruined their plan.
+
+### Secrets and Clues
+- The Lord Mayor's son has different hair and mannerisms than his father.
+- The seven swords have been asking after a group that passed through.
+- The seven swords banished Keziah a long time ago.
+* Keziah Mazerine was a spellcaster around here with a fearsome reputation. She was killed by the Seven Swords of Agor some thirty years ago.
+  * Keziah's magic was dangerous.
+  * She wanted to see the miners removed permanently from the valley.
+  * From the immortal courts of the deep oceans, she captured a young god thing and stole away with it's dreams, such was her way.
+* An adventuring party came through here, one young guy got drunk and chattered on about some book, some treasure, some witch. They set off into the valley right after the spring thaw.
+* The last 30 years have been prosperous for the town, since Keziah was killed. There is an unmaintained monument to her death, down towards the docks. The 7 Swords put a stop to her madness. It's a bronze sword stuck in the ground, its been broken for years.
+
+### Fantastic Locations
+* The road out of town is run deep with wagon wheels and over grown with tall spring grass. You can see the hazy ridges of the distant mountains in the morning sun. It's cold at night, but quickly warms up during the day. There is an ox path, but no oxen in sight. The poor road, not yet filled in after the thaw, is the only real way deeper into the valley. 
+* From a distance, you can see the shape of another wagon, this one much larger, requiring perhaps 8 horses to pull over the rough road. High boards on the top of the structure would have provided cover from a traditional attack, but the whole thing has been pitched over on its side, probably rendering the defense useless. A great boulder stained with dark brown blood shows that a bloody fight happened here. Broken boards, bits of bridle and straps, broken arrow shafts and shattered weapons are all that remain. Tracks lead to and fro; someone has scavenged many of the valuables. 
+  - A gold river mercenary did escape, wounded, and died down by the river. You can follow his trail to there. 
+* A curl of gentle smoke emerges from brick chimney of the The Silvertongue Inn. It is nestled into the trees just off the road. A coaching inn to change out horses and a welcome respite from the road. It's a timber structure, 1 story only, but real glass windows, frosted up with fog, as uniquely out of place. 
+
 
 
 
