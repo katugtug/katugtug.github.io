@@ -4,6 +4,53 @@ title: The Pathfinder Witch Game
 
 {% include menu.html menutype="campaign" menuof="The Witch Game"  linebreaks=true %}
 
+
+## Treasure table for level 2
+100 gp in treasure
+2 3rd level items
+2 2nd level items
+  1x bronze bull pendant talisman - druid skin
+
+2 3rd level consumables
+  1x potion of water breathing - dwarf skin
+
+2 2nd levbl consumables
+2 1st level consumables
+  1x thunderstone
+
+Scholarly Journal (plants)
+
+
+## Session 4
+* Strong Start: Down by the river's edge, a wounded man cries for help as a number of fish creatures emerge, carrying a bag of servered heads and wielding a wicked knives and thick pointed morning stars.
+* The man is Jermaine, a mercenary, wounded and dying. His was the last to get out of Bargetown before the fish folk took over. The whole northern valley is overrun with them and their gibberings to some ALGORATH. It's some god, they have a great pile of heads from much of the native folk and some of the miners too, piled high in Bargetown. They are building something underground at bargetown. Most were forced to flee but caught in the fish's traps and corralled for sacrifice.
+
+### Possible Encoutners that are fun.
+
+#### Well of the Ancients
+In a clearing, a well stands and all around in the ruins of a former town, now covered in weeds and grass, everything gone but the rocks. One side of the well is carved out and bits of food lay there. Perception 25 to detect a seeing eye glass.
+* The well used to be the home of a crazy dwarf who would trap folks in his traps when they neared the well. The hood of the well conceals a dead weight trap that drops a noose.
+* The dwarf is dead however, admidst his many traps and such, the start of another problem emerges - elementals, a water elemental has made its home in the well, having been let loose by the spill at keziah's tomb. The water elemental will attack any who enter, but there are many treasures in this hole that the dwarf has collected.
+  
+#### Silvertounge 
+* A curl of gentle smoke emerges from brick chimney of the The Silvertongue Inn. It is nestled into the trees just off the road. A coaching inn to change out horses and a welcome respite from the road. It's a timber structure, 1 story only, but real glass windows, frosted up with fog, as uniquely out of place. 
+* It's a coaching inn, there are stables here.
+* There is a visitor, old man blevins, out to get some honey and to warn his friend Pip of the incoming attack. Fish creatures from the north are swimming in the river at night and searching the forest for something.
+* Just as he says this, there are fish monsters burrowing in the basement to get to the food and get some heads.
+* Obvious exits from the silver tounge:
+  * The great dwarven bridge, crosses the river to the west. The bridge stands tall after hundreds of years.
+  * The barrow hills into the forest of the east in Mossrock forest.
+  * North to Bargetown, now overrun with fish folk.
+
+#### Barrow lands and the standing stones
+Dreams of another age happen in the barrows at night, midst the ancient stones from another time. A staircase to heaven and the kings of the hill men, savage and gilt with their blighted gold.
+
+#### The Dwarven Bridge
+Powerful stone bridge. Deep towers go into all the way below the water, there are 3. 
+
+Barred from crossing by the goldriver mercs, great large people from the western forest and the spurned hills make their way in. The spurned hills have changed these people, men and women, making them larger and more aggressive, but able to bear the star seed, a silver mark upon their foreheads. 
+
+
 ## Session 3
 * Strong start:
   * The protean monster ravages the townsfolk while a fire rips through the stately manor house on the hill.
