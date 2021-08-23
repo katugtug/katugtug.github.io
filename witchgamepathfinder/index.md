@@ -4,6 +4,26 @@ title: The Pathfinder Witch Game
 
 {% include menu.html menutype="campaign" menuof="The Witch Game"  linebreaks=true %}
 
+## Session 6 - My kingdom for a horse
+
+Setting, mossrock woods, foggy, wet, dark, cold, misty, ferny.
+
+Pulling a heavy chest from the inside of the cave, the chest will not fit up the tunnel.
+
+### The chest
+
+### Cave passageway
+Long passage, hands and knees for medium sized.
+
+Connects to a great cavern, stalagmites hang down. The cavern is illuminated by a red hot pillar of molten magma, dripping out of a high raised part in the roof of the cave. Fire mephits flit around here and there in the large space. The hole is the ceiling is some 40 ft above. A white hot ring of molten fire surrounds it, the heat must be extreme. This is a natural cavern with very little in the way of manmade tools. Pillars of rock reach down from around the hole and you can see from the glowing hot flames there appears to be a roof or something above. This is the first room of Keziah's lair, the snake room.
+
+A pool of water gathers in the basin at the bottom. The water drains from the cavern in a small stream that the party can follow out and end up back in the woods at the foot of the standing stones.
+
+There is a woman, Terestra the Mage, who has fallen through the hole fleeing the tumultuous encounter with the elemental orb.
+She barely holds onto life. But she was there when one of the adventurers she was with shattered the elemental orb, the dreams of some untold creature were released, all 4 elements, complete chaos.
+
+
+### C
 
 ## Session 5 - Westward into the dark
 
@@ -61,18 +81,20 @@ Forest wights, guardians of the forest who have died when offerings were no long
 ## Treasure table for level 2
 100 gp in treasure
 2 3rd level items
+  BRACERS OF MISSILE DEFLECTION
+  Doubling rings
 2 2nd level items
-  1x bronze bull pendant talisman - druid skin
-
+  1 RUNE OF WEAPON POTENCY
+  GIVEN 1x bronze bull pendant talisman - druid skin
 2 3rd level consumables
-  1x potion of water breathing - dwarf skin
-
+  GIVEN 1x potion of water breathing - dwarf skin
+  Frost vial, moderate
 2 2nd levbl consumables
+  Infiltrator’s elixir
+  Black adder venom
 2 1st level consumables
   1x thunderstone
-
-Scholarly Journal (plants)
-
+  Nectar of purification
 
 ## Session 4
 * Strong Start: Down by the river's edge, a wounded man cries for help as a number of fish creatures emerge, carrying a bag of servered heads and wielding a wicked knives and thick pointed morning stars.
