@@ -4,6 +4,19 @@ title: The Pathfinder Witch Game
 
 {% include menu.html menutype="campaign" menuof="The Witch Game"  linebreaks=true %}
 
+## Session 8:
+Recap: PCs are in Keziah's lair, looking around, they find their way past a secret door into the ruins below. There are clay urns and roots seal the hall. As they enter, they come upon the remnants of the those who died fighting here, 10 zombies, 2 knights and a bunch of old townsfolk.
+
+As they enter the next chamber, they walk into the Sanctum of Ezraban, the Keziah's apprentice and now somewhere between dreaming and reality. He protrays himself as dead, but he is not undead. Once the players have moved past the roots, they have entered into freddie krueger's nightmare basically. He takes on the aspect of the barrow wight that guards the tombs around here, but it is fantasy. His goal in this fight is to knock one of the players into dying and then inhabit them. This will end the illusion and Ezraban will not immediately draw attention to himself in the player's mind but will remain there until an opportunity comes.
+
+The player's will have a better chance of survival if they realize they are asleep, where upon some of them will wake up, but they have fallen asleep just past the roots. The dead are still there as in the dream, but not zombies. And entering the chamber, they will find the body of Ezraban himself, blasted into shreds and a broken glass orb near him, a final attempt to harness a dream that failed and trapped his spirit here.
+
+Ezraban's motivations are freedom. His spirit lives, but his body has been destroyed. Seeing they are capable adventurers if they wake from the dream, he will parlay with them, say he has misjudged them and tell them the story. 
+
+In the room are
+
+
+
 ## Session 6 - My kingdom for a horse
 
 Setting, mossrock woods, foggy, wet, dark, cold, misty, ferny.
