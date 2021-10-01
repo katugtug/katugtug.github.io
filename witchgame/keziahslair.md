@@ -52,6 +52,30 @@ And the last item, another great orb, hidden away in a small secret place in the
 
 If the orb is broken, the dreams will escape. They will find their home if the creature is near, restoring the Underlord with his power and his bearing. 
 
+Things in Keziah's lair:
+- Evidence of 2 spells being cast: 1, a foul curse, black ashes and bloodstains. 2, the runes in the table indicate some form of enchantment, Keziah moving her dreams to the orb.
+- Journal of her apprentice, Ezraban, now dead. She cast a curse on the knight she had stabbed. Mortally wounded by a witchbane blade, she put her dreams into the orb. Ezraban indicates he is going to try to escape. Its not clear if it worked.
+- Simple sleeping quarters and under the rotting mattress, a key.
+- Keziah's body. Maybe a key.
+- A small secret alcove and that unlocks with a hidden keyhole. Inside, the bag of holding, a silver spear (+1 lycanthrope bane) and her spellbook, filled with powerful arcane spells and the secrets to reverse the curse that she laid upon the knights. 
+- There is a way out here as well, though it is well hidden. Now that the seal is broken, it can be accessed. This could lead to the players approaching the fight from the other side and maybe even fighting a way to avoid it all together. lol weird. Either the beast or knights would win then, and pursue them.
 
+At this time, a great rumble can be heard and the inhuman cry of the great beast. The clash of steel and cries of battle can be heard from the entrance chamber.
 
+This is Algorath, Prince of the Deep.  Dark grey skinned torso, like the color of the deep ocean, fiery orange eyes and armor that looks like bright orange crab carapace. It is completely bald, with a flat nose and small mouth. Its eyes are enormous compared to human proportions, flaring orange saucers of light. 
+Strangest of all, about its head float 7 shards of dark glass, each pointing at its face and moving around with it as it moves. It moves through the air with such grace and fluidity, that it barely seems to walk at all. 
 
+- The knights fight the altered beast in the big carvern. The knights accounce that "its another one of those demons like we have locked up in magehold!" when they see schnapplehat. (future hook)
+
+The players must decide what to do with the things they have found:
+- The knights are here to find the magic book in Keziah's lair, not to necessarily seal it up. Give them the book and they would leave. It is of the most importance. However, when the knights are transformed into werewolves, they will lose all reason and hulk out, ignoring the book and possibly destroying it. It's a hard life.
+- The monster wants it dreams back and if they are given to it, it can transform back into its true form, Algorath. Algorath as a beast can be killed, but when it is restored, it is of an obvious strength.
+- The Kuo-toa can show up as well, they will aid Algorath and do whatever he wants. When he's in beast form, they will help him fight, possibly destryoing the orb.
+- Keziah's dreams are the most dangerous. If released, they will wipe the Hindilew valley clear of life, mainly through the use of an avatar of natural destruction, the Darkness that Flickers. It will become a permanent and final manifestation of Keziah's hatred of the outsiders, driving them mad and poisoning the minds of those who come here. Hindilew Valley will descend into anarchy and be abandoned soon after. It announced I WILL FEEEEEEEED ON YOOOOOU and the valley is cursed forever.
+
+The encounters:
+over the clang of battle, it is very difficult to get a parlay going. Only after a few deaths there will be a lull in the battle that might be able to cause a cease fire. 
+
+In the second act of this fight, some of the elder knights will hulk out and this will cause them to lose a lot of rationality (they will fight until all threats are dead). The 2nd act is a good time for the KuaToa to show up. And maybe for the sheriff to show up as well! 
+
+The third act, the beast or the knights are chosen (it'll be beast lol)>> the beast takes the dreams and collapses into a catatonic state, absorbing the dreams. This part matter - if the knights win, they kill the beast. If the players win, the beast is risen and it just ends the fight.
