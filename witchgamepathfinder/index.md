@@ -13,10 +13,6 @@ The player's will have a better chance of survival if they realize they are asle
 
 Ezraban's motivations are freedom. His spirit lives, but his body has been destroyed. Seeing they are capable adventurers if they wake from the dream, he will parlay with them, say he has misjudged them and tell them the story. 
 
-In the room are
-
-
-
 ## Session 6 - My kingdom for a horse
 
 Setting, mossrock woods, foggy, wet, dark, cold, misty, ferny.
