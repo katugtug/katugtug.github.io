@@ -9,7 +9,7 @@ title: Chapter 2 The Pathfinder Witch Game
 ### The Great Hunt
 * The party seeks audience with Virgoth, leader of the Black Horse tribe. A number of vexgits have been persuaded to show up near Crowhollow in a fortnight. Virgoth seeks vexgits to give him an edge as he plans to strike at the technic league who control the richest lands in Numeria.
 
-* The party met a few Blackhorse tribespeople. Ulidar, who brought wants to bring the party to Virgoth and Doren, who thinks involving the party in tribe business is a bad idea. They had in their possession a "vexgit" that they trapped. But the party found real vexgits who are dissimilar in many ways. That vexgit is something else in a costume.
+* The party met a few Blackhorse tribespeople. Ulidar, who wants to bring the party to Virgoth and Doren, who thinks involving the party in tribe business is a bad idea. They had in their possession a "vexgit" that they trapped. But the party found real vexgits who are dissimilar in many ways. That vexgit is something else in a costume.
 
 * Mysterious metal men cast from dark bronze have invaded the Hindalew Valley, announcing their arrival as the beginning of the great hunt and promising an end to the age of men. Their arrival was accompanied by darkness and silence and they began wholesale slaughter of the inhabitants of Hindalew township by tearing apart soldiers and civilians alike with their bare hands. They could not be harmed by normal weapons. They were led by a black sphere with arms and legs who spoke telepathically. The villagers fled and the party set out west in search of weapons.
   

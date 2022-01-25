@@ -13,7 +13,11 @@ title: Bee Dungeon
 1 Wasp Swarm
 2x Giant Wasps
 
+## Tentacle Room
+1 Tendriculos !! p257 b2 (120xp, extreeeeme!)
 
+## Queen Room
+3x Wasp Swarm! (120xp)
 
 ## Akihiro, Ogre Magi
 Perception +13; greater darkvision
@@ -38,4 +42,3 @@ Infernal Wound (divine, necromancy) A bearded devil’s glaive Strike also deals
 
 Cannot be slain, but loses an action from -60 to 0, 2 actions at -120 to -60 and all 3 actions at less than -120 hp. Removing the katana while he is incapacitated releases the demon from the blade but free's Akihiro's soul (to be judged harshly by his ancestors)
 
-Akihiro
