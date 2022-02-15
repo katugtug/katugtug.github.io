@@ -3,7 +3,7 @@ title: Chapter 2 stuff
 ---
 
 
-Overview:
+### Overview:
 Party emerges from bee dungeon but are being followed by the huntsworn group, who pursues them into the gnome city and its locations. The party must find a way out of the city while not getting caught by the huntsworn or delay until Virgoth and his black riders arrive, it should be soon.
 
 
@@ -45,6 +45,8 @@ Starfall introduced toxic leakage into roots of tree that over the centuries hav
 - There is a chance the hangglider will malfunction and send you to an odd part of the city below, but there's also a chance it'll get you out of the city for good in a random direction.
 - Fisseedi the collector is Malvus the Munificient in disguise! He was up here looking away, when the pcs came.
 - A hard to find cache has Malvus' old suit that looks like a vexgit, discarded.
+
+
 ## Armoury
 It looks like an armoury from the outside with heavy doors and a thick wall around it. But the wall is crumbled and inside its actually a central repository for nice tools.
 Like most of the buildings, there is a small garden here, all of dead weeds, and a scarecrow, its old stuffed coat falling apart in the wind.
@@ -54,25 +56,34 @@ The spirit of a ghostly gnome gardner sits on the rafters if you climb into the 
 - What ya doing with me things?
 - Little fella tool me tools before I noticed, but you lumberfoots i heard well away.
 - Get away from my things ya louts!
+
+## Church of She Who Guides the Wind and the Waves
+The great temple to She Who Guides the Wind and the Waves, lies over a great reflecting pool, now dried and barren.
+
+There a signs of life here, but no one seems to watch you as you approach.
+
+
+
+
 ## Encounter:
-    2 Binumir that tried to save themselves from the bleaching with a potion that killed them.
-    3 blood ooze emerging from the bark
-    Treasure:
-    47 coins
-    Shifting Rune
-    Rarity: Common
-    Type: Rune, permanent
-    Total Worth: 225.0 gp
-    x1
-    Iron Cube
-    Rarity: Common
-    Type: Talisman, consumable
-    Total Worth: 50.0 gp
-    x1
-    Moderate Eagle-eye Elixir
-    Rarity: Common
-    Type: Elixir, consumable
-    Total Worth: 27.0 gp
+  2 Binumir that tried to save themselves from the bleaching with a potion that killed them.
+  3 blood ooze emerging from the bark
+  Treasure:
+  47 coins
+  Shifting Rune
+  Rarity: Common
+  Type: Rune, permanent
+  Total Worth: 225.0 gp
+  x1
+  Iron Cube
+  Rarity: Common
+  Type: Talisman, consumable
+  Total Worth: 50.0 gp
+  x1
+  Moderate Eagle-eye Elixir
+  Rarity: Common
+  Type: Elixir, consumable
+  Total Worth: 27.0 gp
   Money
   48
   +1 Armor Potency Rune
@@ -92,6 +103,41 @@ The spirit of a ghostly gnome gardner sits on the rafters if you climb into the 
   Total Worth: 200.0 gp
 
 
+The Gate Master
+CREATURE 13
+UNCOMMON
+N
+LARGE
+CONSTRUCT
+GOLEM
+MINDLESS
+Perception +21; darkvision
+Skills Athletics +30
+Str +6, Dex +2, Con +4, Int +0, Wis +0, Cha +0
+AC 34; Fort +22, Ref +26, Will +22
+HP 160; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire,
+healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
+poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+
+Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent
+damage); healed by fire (area 2d8 HP); slowed by electricity
+
+Vulnerable to Rust Magical rusting effects, like a rust monster’s
+antennae, affect the iron golem normally.
+
+Speed 20 feet
+
+Melee � fist +24 (magical, reach 10 feet), Damage 3d10+12 bludgeoning
+
+Mark target: Range 30ft. The gatemaster marks the target. DC 30. If they fail, for 2 weeks, the
+golem knows their basic location. if they critical fail, the gatemaster knows their location for 
+1 month. 
+
+Inexorable March � The iron golem Strides up to its Speed, pushing back each
+creature whose space it moves into and damaging them if they try to stop its
+movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude
+save. On a critical success, the resisting creature takes no damage; otherwise, it is
+damaged as if hit by the golem’s fist.
 
 
 
