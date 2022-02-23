@@ -26,25 +26,26 @@ He is working for the technic league, but will not reveal this. He portrays hims
 
 The party will find that the city is teeming with groups of huntsworn that are looking for them. They are commanded by the hooded man. They are directed to find the elf with the wooden mask and get the keys. They are commanded by the staples in their necks. If they staples are removed, there is a change they will recover their memories after a brief catatonia. Sometimes they will not (1 in 6) if the staple is crudely removed. Among the huntsworn is the android from the lightspear tribe. It is his memories that told them what direction the party might be heading.
 
-The dry barren wastelands that surround the city are bare to see. You are basically out in the open. Because of this, the all will see virgoth's approaching bikes long before they arrive, several hours.
+The dry barren wastelands that surround the city are bare to see. It's overcast from the blowing in storm. You are basically out in the open. Because of this, the all will see virgoth's approaching bikes long before they arrive, several hours.
 
 
 # Gnome City
 What happened here?
 Starfall introduced toxic leakage into roots of tree that over the centuries have withered it. The gnomes here relied on the sentient tree they called the Great Boba. In an effort to save the tree, they treated it with blessings and tinctures of a fey variety and its roots began to grow into the First World. But then the effort reversed itself, the roots growing into the First World dried up and the great tree began "bleaching", its leaves turned white and its bark to ashes and it will soon be completely dead except for a few leaves at the very top.
+
 ## The big tree (center of map)
 - Gigantic imposing unhealthy tree.
-- A gray gnome falls at your feet, apparnetly dead.
+- A gray gnome falls at your feet, apparently dead.
 - There used to be great ladders and lifts to climb it, but those have fallen to ruin.
 - it can be climbed however
-- Lower boughs, many abandoned dwellings have been looted, but one hollow into the tree is hidden and revealed, A dwelling, 20x30, with the trappings of homelife, but the lanterns flicker and shift as you enter and a cold wind blows. There is a chest on the far side of the room.
+- Lower boughs, many abandoned dwellings have been looted, but one hollow into the tree is hidden and revealed, A dwelling, 20x30, with the trappings of homelife, but the lanterns flicker and shift as you enter and a cold wind blows. There is a chest on the far side of the room. 
 - Upper boughs remain inhabited by the last of the gnomes, many bleached and dispondant, they are languid and bored except for one, Fisseedi the collector, who has been collecting all of the curios from his friends and family as they pass. He'll trade with you if you'd like, but he cannot guarantee the exact qualities of the items he gives you.
-  - There is a great hang glider here.
+  - There is a great hang glider here, but it lies at the end of a long branch and atop a house. All along the branch, a totenmaske has taken to drinking the flesh of the bleached gnomes and turning them into machines. The centerpiece is a great mill made of flesh, where everything that is fed in is ground into blood and bones that come sloshing out. rofl.
   - He has no clue about how to do much for the tree.
-  - He can show you the gliders if you'd like, there are a great many hanggliders here. He hasnt used them in awhile, so he's not sure if they still work. But he's thinking it probably time.
 - There is a chance the hangglider will malfunction and send you to an odd part of the city below, but there's also a chance it'll get you out of the city for good in a random direction.
 - Fisseedi the collector is Malvus the Munificient in disguise! He was up here looking away, when the pcs came.
 - A hard to find cache has Malvus' old suit that looks like a vexgit, discarded.
+- Malvus has the info he needs to go back to the technic league already, but couldn't pass up pilfering this city on his way back.
 
 
 ## Armoury
@@ -62,82 +63,84 @@ The great temple to She Who Guides the Wind and the Waves, lies over a great ref
 
 There a signs of life here, but no one seems to watch you as you approach.
 
+Inside are the remaining gnomes, led by a priest of She Who Guides the Wind and Waves.
 
-
+Her name is Orti Vandersnoot, she is a cleric. She wants to get her people out. She is positive person, blessed by her god and willing to trust in her. All of the gnomes live here in the church compound. They dont have anywhere to go. Scouts don't come back, she is willing to help the PCs. 
 
 ## Encounter:
-  2 Binumir that tried to save themselves from the bleaching with a potion that killed them.
-  3 blood ooze emerging from the bark
-  Treasure:
-  47 coins
-  Shifting Rune
-  Rarity: Common
-  Type: Rune, permanent
-  Total Worth: 225.0 gp
-  x1
-  Iron Cube
-  Rarity: Common
-  Type: Talisman, consumable
-  Total Worth: 50.0 gp
-  x1
-  Moderate Eagle-eye Elixir
-  Rarity: Common
-  Type: Elixir, consumable
-  Total Worth: 27.0 gp
-  Money
-  48
-  +1 Armor Potency Rune
-  Rarity: Common
-  Type: Rune, permanent
-  Total Worth: 160.0 gp
-  x1
-  Clandestine Cloak
-  Rarity: Uncommon
-  Type: Worn, permanent
-  Total Worth: 230.0 gp
-  For helping gardner
-  x1
-  Traveler’s Any-tool
-  Rarity: Common
-  Type: Held, permanent
-  Total Worth: 200.0 gp
+
+    2 Binumir that tried to save themselves from the bleaching with a potion that killed them.
+    3 blood ooze emerging from the bark
+    Treasure:
+    47 coins
+    Shifting Rune
+    Rarity: Common
+    Type: Rune, permanent
+    Total Worth: 225.0 gp
+    x1
+    Iron Cube
+    Rarity: Common
+    Type: Talisman, consumable
+    Total Worth: 50.0 gp
+    x1
+    Moderate Eagle-eye Elixir
+    Rarity: Common
+    Type: Elixir, consumable
+    Total Worth: 27.0 gp
+    Money
+    48
+    +1 Armor Potency Rune
+    Rarity: Common
+    Type: Rune, permanent
+    Total Worth: 160.0 gp
+    x1
+    Clandestine Cloak
+    Rarity: Uncommon
+    Type: Worn, permanent
+    Total Worth: 230.0 gp
+    For helping gardner
+    x1
+    Traveler’s Any-tool
+    Rarity: Common
+    Type: Held, permanent
+    Total Worth: 200.0 gp
 
 
-The Gate Master
-CREATURE 13
-UNCOMMON
-N
-LARGE
-CONSTRUCT
-GOLEM
-MINDLESS
-Perception +21; darkvision
-Skills Athletics +30
-Str +6, Dex +2, Con +4, Int +0, Wis +0, Cha +0
-AC 34; Fort +22, Ref +26, Will +22
-HP 160; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire,
-healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
-poison, sickened, unconscious; Resistances physical 15 (except adamantine)
+### The Gate Master
+    CREATURE 13
+    UNCOMMON
+    N
+    LARGE
+    CONSTRUCT
+    GOLEM
+    MINDLESS
+    Perception +21; darkvision
+    Skills Athletics +30
+    Str +6, Dex +2, Con +4, Int +0, Wis +0, Cha +0
+    AC 34; Fort +22, Ref +26, Will +22
+    HP 160; Immunities bleed, death effects, disease, doomed, drained, fatigued, fire,
+    healing, magic (see below), mental, necromancy, nonlethal attacks, paralyzed,
+    poison, sickened, unconscious; Resistances physical 15 (except adamantine)
 
-Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent
-damage); healed by fire (area 2d8 HP); slowed by electricity
+    Golem Antimagic harmed by acid (6d10, 2d8 from areas and persistent
+    damage); healed by fire (area 2d8 HP); slowed by electricity
 
-Vulnerable to Rust Magical rusting effects, like a rust monster’s
-antennae, affect the iron golem normally.
+    Vulnerable to Rust Magical rusting effects, like a rust monster’s
+    antennae, affect the iron golem normally.
 
-Speed 20 feet
+    Speed 20 feet
 
-Melee � fist +24 (magical, reach 10 feet), Damage 3d10+12 bludgeoning
+    Melee � fist +24 (magical, reach 10 feet), Damage 3d10+12 bludgeoning
 
-Mark target: Range 30ft. The gatemaster marks the target. DC 30. If they fail, for 2 weeks, the
-golem knows their basic location. if they critical fail, the gatemaster knows their location for 
-1 month. 
+    Mark target: Range 30ft. The gatemaster marks the target. DC 30. If they fail, for 2 weeks, the
+    golem knows their basic location. if they critical fail, the gatemaster knows their location for 
+    1 month. 
 
-Inexorable March � The iron golem Strides up to its Speed, pushing back each
-creature whose space it moves into and damaging them if they try to stop its
-movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude
-save. On a critical success, the resisting creature takes no damage; otherwise, it is
-damaged as if hit by the golem’s fist.
+    Inexorable March � The iron golem Strides up to its Speed, pushing back each
+    creature whose space it moves into and damaging them if they try to stop its
+    movement. A creature can attempt to bar the way by succeeding at a DC 37 Fortitude
+    save. On a critical success, the resisting creature takes no damage; otherwise, it is
+    damaged as if hit by the golem’s fist.
 
 
 
