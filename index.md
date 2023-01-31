@@ -3,12 +3,10 @@ title: Home
 ---
 
 # Home
-
 Heyo
 
 ## Battletech
 * [Battletech Campaigns](battletech)
-
 
 ## The Iron age
 Here is a human only setting that tries to make all human beings seem alien.
@@ -16,8 +14,6 @@ Here is a human only setting that tries to make all human beings seem alien.
 
 ## D6 hacking rules
 * [Hacking](tom/hacking)
-
-
 
 ## Dragons? Something else.
 A setting idea that isolates the big time heros of the Forgotten Realms dealing with something else, while a normal group of adventurers is tasked with something that is just as important as the big war -- killing some big fucking dragon.
