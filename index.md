@@ -15,7 +15,7 @@ Here is a human only setting that tries to make all human beings seem alien.
 * [Iron Age](iron)
 
 ## D6 hacking rules
-* [Hacking](tom/hacking.md)
+* [Hacking](tom/hacking)
 
 
 
