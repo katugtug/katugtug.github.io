@@ -22,7 +22,7 @@ Atmospheric breathability: Toxic (long term survivalibility impossible, unconsci
 
 While drinking away their credits at a New Adjala tavern, some of the Leviathan crew picked up on a rumor.  
 
-There's been an interesting sounding find in a remote cobalt mine on Vosloorus. A worker was moved off the mine after they found something and apparently, as soon as they found it, a Stimson duke came in to oversee the operation. But the worker, a Vosloorian named Mikael Beks, says they already got it mostly excavated, they are just waiting to load it up. An old ship part maybe? It's pretty big. The mining site is owned by a corporation, Estellian Heavy Industry and goes by the desigation Cobalt 340. What could be so  important that the royalty are coming out to endure Vosloorus and fly out to the middle of nowhere?
+There's been an interesting sounding find in a remote cobalt mine on Vosloorus. A worker was moved off the mine after they found something and apparently, as soon as they found it, a Stimson duke came in to oversee the operation. But the worker, a Vosloorian named Mikael Beks, says they already got it mostly excavated. They are just waiting to load it up. An old ship part maybe? It's pretty big. The mining site is owned by a corporation, Estellian Heavy Industry and goes by the designation Cobalt 340. What could be so important that the royalty are coming out to endure Vosloorus and fly out to the middle of nowhere? Something of great and precious value, Anson Birk, captain of Task Force Leviathan believes.
 
 And apparently EHI wanted to get this thing off world for themselves, but word got out and now they are being forced to hand over whatever it is to House Stimson.
 
