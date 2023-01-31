@@ -1,25 +1,26 @@
 ---
-title: Episode 1: VFM Radio Transmission Station Dingo
+title: Episode 1 VFM Radio Transmission Station Dingo
 ---
 
 # VFM Radio Transmission Station Dingo
-Location Vosloorus I
-Gundagai continent
-VFM Radio Transmission Station Dingo, 32.4405 N, 40.9215 W
-(Vosloorus Free Militia)
-0100 hours (of a 19 hour day) Jan 1st, 3048
-Free Worlds League space
+Location: Vosloorus I  
+Gundagai continent  
+VFM Radio Transmission Station Dingo, 32.4405 N, 40.9215 W  
+(Vosloorus Free Militia)  
+0100 hours (of a 19 hour day) Jan 1st, 3048  
+Free Worlds League space  
 
-Conditions:
-Temperature 10 C
-Weather fair, wind from the northwest.
-Atmospheric pressure: thin
-Atmospheric breathability: Toxic (long term survivalibility impossible, unconscious in 20 minutes)
+## Conditions:
+Temperature 10 C  
+Weather fair, wind from the northwest.  
+Atmospheric pressure: thin  
+Atmospheric breathability: Toxic (long term survivalibility impossible, unconscious in 20 minutes)  
 
 ---
+
 ## Plot:
 
-While drinking away their credits at a New Adjala tavern, some of the Leviathan crew picked up on a rumor.
+While drinking away their credits at a New Adjala tavern, some of the Leviathan crew picked up on a rumor.  
 
 There's been an interesting sounding find in a remote cobalt mine on Vosloorus. A worker was moved off the mine after they found something and apparently, as soon as they found it, a Stimson duke came in to oversee the operation. But the worker, a Vosloorian named Mikael Beks, says they already got it mostly excavated, they are just waiting to load it up. An old ship part maybe? It's pretty big. The mining site is owned by a corporation, Estellian Heavy Industry and goes by the desigation Cobalt 340. What could be so  important that the royalty are coming out to endure Vosloorus and fly out to the middle of nowhere?
 
@@ -47,22 +48,24 @@ The contract is simple: provide security for the study and excavation of the art
 * The defenders additional 2 mechs arrive on turn 2.
 
 ### Special rules:
-Fire and Smoke simplifed (BMM)
-Full Moon Night (BMM)
-All mechs equipped with searchlights that can be toggled on and off.
+* Fire and Smoke simplifed (BMM)
+* Full Moon Night (BMM)
+* All mechs equipped with searchlights that can be toggled on and off.
 
 ### Warchest 
-FLIR Suite: Attacker or defender +50 WP per mech:
-- Enemy mechs are equipped with a FLIR capability in addition to their searchlights.
-- Mechs can be equipped with sophisticated FLIR suite that allows them to count mechs as illuminated but without being illuminated themselves. Same range as searchlight. Doesn't help with the Reckless Maneuvering effect of night time.
+* FLIR Suite: Attacker or defender +50 WP per mech:
+    - Enemy mechs are equipped with a FLIR capability in addition to their searchlights.
+    - Mechs can be equipped with sophisticated FLIR suite that allows them to count mechs as illuminated but without being illuminated themselves. Same range as searchlight. Doesn't help with the Reckless Maneuvering effect of night time.
 
-Minefields: +200 WP
-* Attacker only
-* Defender gets to place 5 minefields in secret before deployment. Defender writes them down and they are revealed with activated.
+* Minefields: +200 WP
+    * Attacker only
+    * Defender gets to place 5 minefields in secret before deployment. Defender writes them down and they are revealed with activated.
 
 ### Winning and Losing
-The game lasts 6 turns. 
-The attackers win if the radio transmission control room is destroyed. The defenders win if it isn't. The game is a draw if the radio room is still standing, but is on fire. It will burn down, but allow a radio transmission to be sent to the Vosloorus Free Miltia HQ. 
+* The game lasts 6 turns. 
+* The attackers win if the radio transmission control room is destroyed. 
+* The defenders win if it isn't. 
+* The game is a draw if the radio room is still standing, but is on fire. It will burn down, but allow a radio transmission to be sent to the Vosloorus Free Miltia HQ. 
 
 ### Campaign Effects
 If the attackers destroy the radio transmission tower quickly enough, there is a communication blackout for a big portion of the continent. This will disrupt all military and corporate communications until it can be repaired. This will allow a window for the attack on Cobalt 340.  
