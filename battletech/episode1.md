@@ -22,13 +22,13 @@ Atmospheric breathability: Toxic (long term survivalibility impossible, unconsci
 
 While drinking away their credits at a New Adjala tavern, some of the Leviathan crew picked up on a rumor.  
 
-There's been an interesting sounding find in a remote cobalt mine on Vosloorus. A worker was moved off the mine after they found something and apparently, as soon as they found it, a Stimson duke came in to oversee the operation. But the worker, a Vosloorian named Mikael Beks, says they already got it mostly excavated. They are just waiting to load it up. An old ship part maybe? It's pretty big. The mining site is owned by a corporation, Estellian Heavy Industry and goes by the designation Cobalt 340. What could be so important that the royalty are coming out to endure Vosloorus and fly out to the middle of nowhere? Something of great and precious value, Anson Birk, captain of Task Force Leviathan believes.
+There's been an interesting sounding find in a remote cobalt mine on Vosloorus. A worker was moved off the mine after they found something and apparently, as soon as they found it, a Stimson duke came in to oversee the operation. But the worker, a Vosloorian named Mikael Beks, says they already got it mostly excavated. They are just waiting to load it up. An old ship part maybe? It's pretty big. The mining site is owned by a corporation, Estellian Heavy Industry. The site goes by the designation Cobalt 340. What could be so important that the royalty are coming out to endure Vosloorus and fly out to the middle of nowhere? 
 
-And apparently EHI wanted to get this thing off world for themselves, but word got out and now they are being forced to hand over whatever it is to House Stimson.
+And apparently Estellian (EHI) wanted to get this thing off world for themselves, but word got out and now they are being forced to hand over whatever it is to House Stimson.
 
-Well, Anson Birk and the TFL will load it up for him for free. 
+Well, Anson Birk and the Leviathans will load it up for him for free. 
 
-The only problem with the attack is there is an naval station with enough naval autocannons to give any dropship a bad time in a hurry as well as a House Stimson Destroyer that can give pursuit. Any trajectory headed back towards the jumpship point will get shot to pieces. That means a jumpship wanting to avoid the naval station must either use the planet's shadow to escape detection and take a circuitutious route to the jump point, or avoid detection in the first place.
+The only problem with the attack is there is a naval station with enough naval autocannons to give any dropship a bad time. There is also a House Stimson Destroyer that can give pursuit. Any trajectory headed back towards the jumpship point will get shot to pieces. That means a jumpship wanting to avoid the naval station must either use the planet's shadow to escape detection and take a circuitutious route to the jump point, or avoid the naval station looking for them in the first place. 
 
 Given the remoteness of Cobalt 340, far away from the capital of the planet, all communications that would be relayed in a 750 km radius need to go through Radio Transmission Station Dingo. RDS Dingo is lightly guarded. If the station is knocked out, transmissions from the ground forces at Cobalt 340 will not reach the authorities in time for naval intervention.
 
