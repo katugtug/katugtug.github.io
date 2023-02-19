@@ -28,7 +28,7 @@ And apparently Estellian (EHI) wanted to get this thing off world for themselves
 
 Well, Anson Birk and the Leviathans will load it up for him for free. 
 
-The only problem with the attack is there is a naval station with enough naval autocannons to give any dropship a bad time. There is also a House Stimson Destroyer that can give pursuit. Any trajectory headed back towards the jumpship point will get shot to pieces. That means a jumpship wanting to avoid the naval station must either use the planet's shadow to escape detection and take a circuitutious route to the jump point, or avoid the naval station looking for them in the first place. 
+The only problem with the attack is there is a naval station with enough naval autocannons to give any dropship a bad time. There is also a House Stimson dropship that can give pursuit. Any trajectory headed back towards the jumpship point will get shot to pieces. That means a jumpship wanting to avoid the naval station must either use the planet's shadow to escape detection and take a circuitutious route to the jump point, or avoid the naval station looking for them in the first place. 
 
 Given the remoteness of Cobalt 340, far away from the capital of the planet, all communications that would be relayed in a 750 km radius need to go through Radio Transmission Station Dingo. RDS Dingo is lightly guarded. If the station is knocked out, transmissions from the ground forces at Cobalt 340 will not reach the authorities in time for naval intervention.
 
